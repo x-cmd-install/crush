@@ -2,93 +2,93 @@ about:
   description: "Glamourous agentic coding for all 💘"
   license: NOASSERTION
   homepage: 
-  head: 35a7bca
+  head: 7f9a8e4
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T04:58:48Z
+  collectedAt: 2026-09-07T19:28:21Z
 timeline:
   created: 2025-05-21
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-06
 popularity:
-  star: 27939
+  star: 27948
   watcher: 155
-  fork: 2230
+  fork: 2232
   release: 185
   contributor: 128
-  pullRequest: 2246
-  issue: 1216
+  pullRequest: 2249
+  issue: 1219
 language:
-  Go: 4541400
+  Go: 4541439
   Go Template: 38660
   JavaScript: 14584
   CSS: 8928
   HTML: 5676
   Nix: 1043
   Shell: 716
-totalBytes: 4611007
+totalBytes: 4611046
 recent:
   last30d:
     since: 2026-08-08
     release: 7
-    mergedPR: 50
-    openPR: 60
+    mergedPR: 51
+    openPR: 61
     closedIssue: 13
-    openIssue: 42
-    commit: 83
+    openIssue: 45
+    commit: 85
   last60d:
     since: 2026-07-09
     release: 14
-    mergedPR: 138
-    openPR: 117
+    mergedPR: 139
+    openPR: 118
     closedIssue: 31
-    openIssue: 86
-    commit: 346
+    openIssue: 89
+    commit: 348
   last90d:
     since: 2026-06-09
     release: 22
-    mergedPR: 201
-    openPR: 145
+    mergedPR: 202
+    openPR: 146
     closedIssue: 56
-    openIssue: 127
-    commit: 516
+    openIssue: 130
+    commit: 518
   last180d:
     since: 2026-03-11
     release: 61
-    mergedPR: 455
-    openPR: 240
+    mergedPR: 456
+    openPR: 241
     closedIssue: 160
-    openIssue: 255
-    commit: 1118
+    openIssue: 258
+    commit: 1120
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 1033
-    openPR: 277
+    mergedPR: 1034
+    openPR: 278
     closedIssue: 441
-    openIssue: 380
-    commit: 2237
+    openIssue: 383
+    commit: 2239
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1439
-    openPR: 278
+    mergedPR: 1440
+    openPR: 279
     closedIssue: 801
-    openIssue: 415
-    commit: 4103
+    openIssue: 418
+    commit: 4105
 total:
   release: 185
-  mergedPR: 1441
-  openPR: 278
+  mergedPR: 1442
+  openPR: 279
   closedIssue: 801
-  openIssue: 415
-  commit: 4103
+  openIssue: 418
+  commit: 4105
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/crush
-collectedAt: 2026-09-07T04:58:55Z
+collectedAt: 2026-09-07T19:28:27Z
 loc:
   Go:
-    code: 113602
+    code: 113603
     comments: 18577
     blanks: 17999
     files: 614
@@ -153,7 +153,7 @@ loc:
     blanks: 0
     files: 1
 total:
-  code: 130386
+  code: 130387
   comments: 21705
   blanks: 20874
   files: 718
@@ -161,7 +161,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:56+00:00
+  collectedAt: 2026-09-07T19:28:28+00:00
   platform:
     darwin/arm64:
       name:  crush_0.92.0_Darwin_arm64.tar.gz
