@@ -5,13 +5,13 @@ about:
   head: 5d55bb5
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-08T02:12:05Z
+  collectedAt: 2026-09-08T05:05:56Z
 timeline:
   created: 2025-05-21
   lastCommit: 2026-09-08
   lastRelease: 2026-09-08
 popularity:
-  star: 27949
+  star: 27951
   watcher: 155
   fork: 2233
   release: 185
@@ -85,7 +85,7 @@ total:
   commit: 4106
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/crush
-collectedAt: 2026-09-08T02:12:10Z
+collectedAt: 2026-09-08T05:06:02Z
 loc:
   Go:
     code: 113603
