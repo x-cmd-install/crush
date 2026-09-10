@@ -2,12 +2,12 @@ about:
   description: "Glamourous agentic coding for all 💘"
   license: NOASSERTION
   homepage: 
-  head: 752c656
+  head: ce980ad
   archived: false
   latestVersion: "v0.93.1"
   latestRelease: "v0.93.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T21:46:35Z
+  collectedAt: 2026-09-10T22:07:49Z
 timeline:
   created: 2025-05-21
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-09-10
 popularity:
-  star: 27999
+  star: 28000
   watcher: 152
   fork: 2233
   release: 186
@@ -39,7 +39,7 @@ recent:
     openPR: 71
     closedIssue: 19
     openIssue: 43
-    commit: 110
+    commit: 0
   last60d:
     since: 2026-07-12
     release: 13
@@ -47,7 +47,7 @@ recent:
     openPR: 123
     closedIssue: 40
     openIssue: 88
-    commit: 373
+    commit: 0
   last90d:
     since: 2026-06-12
     release: 23
@@ -55,7 +55,7 @@ recent:
     openPR: 157
     closedIssue: 62
     openIssue: 124
-    commit: 543
+    commit: 0
   last180d:
     since: 2026-03-14
     release: 60
@@ -63,7 +63,7 @@ recent:
     openPR: 253
     closedIssue: 168
     openIssue: 258
-    commit: 1145
+    commit: 0
   last360d:
     since: 2025-09-15
     release: 100
@@ -71,7 +71,7 @@ recent:
     openPR: 290
     closedIssue: 443
     openIssue: 382
-    commit: 2264
+    commit: 0
   last720d:
     since: 2024-09-20
     release: 100
@@ -79,17 +79,17 @@ recent:
     openPR: 291
     closedIssue: 810
     openIssue: 418
-    commit: 4134
+    commit: 4135
 total:
   release: 186
   mergedPR: 1458
   openPR: 291
   closedIssue: 810
   openIssue: 418
-  commit: 4134
+  commit: 4135
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/crush
-collectedAt: 2026-09-10T21:46:39Z
+collectedAt: 2026-09-10T22:07:53Z
 loc:
   Go:
     code: 114758
