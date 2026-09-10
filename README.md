@@ -12,6 +12,18 @@ Glamourous agentic coding for all 💘
 x install crush
 ```
 
+## Code insight
+
+Total: **131,046** lines of code across **664** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 114,758 | 18,740 | 18,177 | 621 |
+| Yaml | 6,587 | 3 | 1,589 | 18 |
+| Json | 5,928 | 0 | 0 | 4 |
+| Svg | 1,624 | 2 | 7 | 6 |
+| Pan | 690 | 3 | 59 | 15 |
+
 ## Source
 
 - **Upstream**: <https://github.com/charmbracelet/crush>
@@ -22,6 +34,25 @@ x install crush
 - **Latest**: `v0.93.1` (2026-09-09)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 64
+
+## Popularity
+
+- **Stars**: 27,999 · **Forks**: 2,233 · **Open issues**: 1,228 · **Contributors**: 131
+
+## Totals (cumulative)
+
+- **Releases**: 186 · **Merged PRs**: 1458 · **Open PRs**: 291 · **Closed issues**: 810 · **Open issues**: 418 · **Commits**: 4134
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 8 | 59 | 71 | 19 | 43 | 110 |
+| last60d | 2026-07-12 | 13 | 152 | 123 | 40 | 88 | 373 |
+| 90d | 2026-06-12 | 23 | 216 | 157 | 62 | 124 | 543 |
+| last180d | 2026-03-14 | 60 | 465 | 253 | 168 | 258 | 1145 |
+| 360d | 2025-09-15 | 100 | 1042 | 290 | 443 | 382 | 2264 |
+| last720d | 2024-09-20 | 100 | 1456 | 291 | 810 | 418 | 4134 |
 
 ## Release assets
 
@@ -92,33 +123,13 @@ x install crush
 | [crush_0.93.1_x86.apk](https://github.com/charmbracelet/crush/releases/download/v0.93.1/crush_0.93.1_x86.apk) | 27.2 MiB | `other` |
 | [crush_0.93.1_x86_64.apk](https://github.com/charmbracelet/crush/releases/download/v0.93.1/crush_0.93.1_x86_64.apk) | 28.8 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 27,997 · **Forks**: 2,230 · **Open issues**: 1,228 · **Contributors**: 131
+Reported by **16** distros on [repology.org](https://repology.org/project/crush). **2** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 186 · **Merged PRs**: 1455 · **Open PRs**: 291 · **Closed issues**: 810 · **Open issues**: 418 · **Commits**: 4128
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 56 | 71 | 19 | 43 | 106 |
-| 90d | 2026-06-12 | 23 | 213 | 157 | 62 | 124 | 539 |
-| 360d | 2025-09-15 | 100 | 1039 | 290 | 443 | 382 | 2260 |
-
-## Code size
-
-Total: **130,152** lines of code across **658** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 113,864 | 18,608 | 18,042 | 615 |
-| Yaml | 6,587 | 3 | 1,589 | 18 |
-| Json | 5,928 | 0 | 0 | 4 |
-| Svg | 1,624 | 2 | 7 | 6 |
-| Pan | 690 | 3 | 59 | 15 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.92.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -129,4 +140,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:46:47Z._
