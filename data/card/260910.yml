@@ -2,12 +2,12 @@ about:
   description: "Glamourous agentic coding for all 💘"
   license: NOASSERTION
   homepage: 
-  head: 4a74b9e
+  head: bb33cee
   archived: false
   latestVersion: "v0.93.1"
   latestRelease: "v0.93.1"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T05:09:00Z
+  collectedAt: 2026-09-10T16:54:04Z
 timeline:
   created: 2025-05-21
   lastCommit: 2026-09-10
@@ -15,85 +15,85 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-09-10
 popularity:
-  star: 27983
+  star: 27997
   watcher: 152
-  fork: 2227
+  fork: 2230
   release: 186
   contributor: 131
-  pullRequest: 2276
-  issue: 1222
+  pullRequest: 2278
+  issue: 1228
 language:
-  Go: 4552659
+  Go: 4552386
   Go Template: 38660
   JavaScript: 14584
   CSS: 8928
   HTML: 5676
   Nix: 1043
   Shell: 716
-totalBytes: 4622266
+totalBytes: 4621993
 recent:
   last30d:
     since: 2026-08-11
     release: 8
-    mergedPR: 55
-    openPR: 70
-    closedIssue: 13
+    mergedPR: 56
+    openPR: 71
+    closedIssue: 19
     openIssue: 43
-    commit: 105
+    commit: 106
   last60d:
     since: 2026-07-12
     release: 13
-    mergedPR: 148
-    openPR: 122
-    closedIssue: 34
+    mergedPR: 149
+    openPR: 123
+    closedIssue: 40
     openIssue: 88
-    commit: 368
+    commit: 369
   last90d:
     since: 2026-06-12
     release: 23
-    mergedPR: 212
-    openPR: 156
-    closedIssue: 56
+    mergedPR: 213
+    openPR: 157
+    closedIssue: 62
     openIssue: 124
-    commit: 538
+    commit: 539
   last180d:
     since: 2026-03-14
     release: 60
-    mergedPR: 461
-    openPR: 252
-    closedIssue: 162
+    mergedPR: 462
+    openPR: 253
+    closedIssue: 168
     openIssue: 258
-    commit: 1140
+    commit: 1141
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1038
-    openPR: 289
-    closedIssue: 437
+    mergedPR: 1039
+    openPR: 290
+    closedIssue: 443
     openIssue: 382
-    commit: 2259
+    commit: 2260
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 1452
-    openPR: 290
-    closedIssue: 804
+    mergedPR: 1453
+    openPR: 291
+    closedIssue: 810
     openIssue: 418
-    commit: 4127
+    commit: 4128
 total:
   release: 186
-  mergedPR: 1454
-  openPR: 290
-  closedIssue: 804
+  mergedPR: 1455
+  openPR: 291
+  closedIssue: 810
   openIssue: 418
-  commit: 4127
+  commit: 4128
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/crush
-collectedAt: 2026-09-10T05:09:04Z
+collectedAt: 2026-09-10T16:54:11Z
 loc:
   Go:
-    code: 113866
-    comments: 18603
+    code: 113864
+    comments: 18608
     blanks: 18042
     files: 615
   Yaml:
@@ -157,8 +157,8 @@ loc:
     blanks: 0
     files: 1
 total:
-  code: 130677
-  comments: 21743
+  code: 130675
+  comments: 21748
   blanks: 20918
   files: 719
 ---
