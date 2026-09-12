@@ -1,26 +1,3 @@
-- repo: openbsd
-  srcname: devel/crush
-  binname: crush
-  visiblename: devel/crush
-  version: 0.89.0
-  origversion: 0.89.0p0
-  status: outdated
-  summary: coding agent with a rich terminal UI
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - devel
-- repo: openpkg_current
-  srcname: crush
-  visiblename: crush
-  version: 2015.07.16
-  origversion: null
-  status: untrusted
-  summary: Custom Reporting Utilities for Shell
-  licenses:
-    - Apache
-  categories:
-    - Text
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -69,8 +46,8 @@
   srcname: crush
   binname: crush
   visiblename: crush
-  version: 0.93.1
-  origversion: 0.93.1-1
+  version: 0.94.1
+  origversion: 0.94.1-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -82,8 +59,8 @@
   srcname: crush-bin
   binname: crush-bin
   visiblename: crush-bin
-  version: 0.93.1
-  origversion: 0.93.1-1
+  version: 0.94.1
+  origversion: 0.94.1-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -113,8 +90,8 @@
   srcname: misc/crush
   binname: crush
   visiblename: misc/crush
-  version: 0.92.0
-  origversion: 0.92.0_1
+  version: 0.93.1
+  origversion: null
   status: outdated
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
@@ -184,6 +161,45 @@
     - davinci42.cn@gmail.com
   licenses:
     - FSL-1.1-MIT
+- repo: openbsd
+  srcname: devel/crush
+  binname: crush
+  visiblename: devel/crush
+  version: 0.89.0
+  origversion: 0.89.0p0
+  status: outdated
+  summary: coding agent with a rich terminal UI
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - devel
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: crush
+  binnames:
+    - crush
+  visiblename: crush
+  version: 0.93.1
+  origversion: 0.93.1-1
+  status: outdated
+  summary: Glamorous agentic coding agent for the terminal
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - FSL-1.1-MIT
+  categories:
+    - Development/Other
+- repo: openpkg_current
+  srcname: crush
+  visiblename: crush
+  version: 2015.07.16
+  origversion: null
+  status: untrusted
+  summary: Custom Reporting Utilities for Shell
+  licenses:
+    - Apache
+  categories:
+    - Text
 - repo: tur
   srcname: crush
   binname: crush
