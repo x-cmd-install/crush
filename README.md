@@ -31,28 +31,28 @@ Total: **123,409** lines of code across **690** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.94.1` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Latest**: `nightly` (2026-09-12)
+- **Last commit**: 2026-09-13
 - **Assets in release**: 64
 
 ## Popularity
 
-- **Stars**: 28,022 · **Forks**: 2,236 · **Open issues**: 1,237 · **Contributors**: 131
+- **Stars**: 28,042 · **Forks**: 2,239 · **Open issues**: 1,239 · **Contributors**: 131
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 1466 · **Open PRs**: 286 · **Closed issues**: 812 · **Open issues**: 425 · **Commits**: 4162
+- **Releases**: 187 · **Merged PRs**: 1466 · **Open PRs**: 295 · **Closed issues**: 813 · **Open issues**: 426 · **Commits**: 4164
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 8 | 66 | 64 | 18 | 49 | 136 |
-| last60d | 2026-07-14 | 14 | 155 | 117 | 42 | 91 | 399 |
-| 90d | 2026-06-14 | 24 | 223 | 152 | 60 | 124 | 569 |
-| last180d | 2026-03-16 | 61 | 469 | 248 | 168 | 263 | 1171 |
-| 360d | 2025-09-17 | 100 | 1043 | 285 | 438 | 388 | 2290 |
-| last720d | 2024-09-22 | 100 | 1464 | 286 | 812 | 425 | 4162 |
+| 30d | 2026-08-14 | 8 | 66 | 72 | 19 | 49 | 125 |
+| last60d | 2026-07-15 | 14 | 151 | 124 | 43 | 91 | 272 |
+| 90d | 2026-06-15 | 23 | 222 | 161 | 60 | 124 | 521 |
+| last180d | 2026-03-17 | 60 | 467 | 256 | 169 | 264 | 1127 |
+| 360d | 2025-09-18 | 100 | 1039 | 294 | 438 | 389 | 2241 |
+| last720d | 2024-09-23 | 100 | 1464 | 295 | 813 | 426 | 4164 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Total: **123,409** lines of code across **690** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/crush). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/crush). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -140,4 +140,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:01:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:10:37Z._
