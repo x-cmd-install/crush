@@ -1,3 +1,31 @@
+- repo: openpkg_current
+  srcname: crush
+  visiblename: crush
+  version: 2015.07.16
+  origversion: null
+  status: untrusted
+  summary: Custom Reporting Utilities for Shell
+  licenses:
+    - Apache
+  categories:
+    - Text
+- repo: tur
+  srcname: crush
+  binname: crush
+  visiblename: crush
+  version: 0.90.0
+  origversion: null
+  status: outdated
+  summary: The glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - ancientcatz@github
+- repo: chocolatey
+  binname: crush
+  visiblename: Crush
+  version: 0.88.1
+  origversion: null
+  status: outdated
+  summary: Glamourous agentic coding for all
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -79,20 +107,13 @@
     - fallback-mnt-aur@repology
   licenses:
     - FSL-1.1-MIT
-- repo: chocolatey
-  binname: crush
-  visiblename: Crush
-  version: 0.88.1
-  origversion: null
-  status: outdated
-  summary: Glamourous agentic coding for all
 - repo: freebsd
   srcname: misc/crush
   binname: crush
   visiblename: misc/crush
-  version: 0.93.1
+  version: 0.94.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - tagattie@freebsd.org
@@ -189,24 +210,3 @@
     - FSL-1.1-MIT
   categories:
     - Development/Other
-- repo: openpkg_current
-  srcname: crush
-  visiblename: crush
-  version: 2015.07.16
-  origversion: null
-  status: untrusted
-  summary: Custom Reporting Utilities for Shell
-  licenses:
-    - Apache
-  categories:
-    - Text
-- repo: tur
-  srcname: crush
-  binname: crush
-  visiblename: crush
-  version: 0.90.0
-  origversion: null
-  status: outdated
-  summary: The glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - ancientcatz@github
