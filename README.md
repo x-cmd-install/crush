@@ -32,27 +32,27 @@ Total: **123,409** lines of code across **690** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-09-12)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 64
 
 ## Popularity
 
-- **Stars**: 28,042 · **Forks**: 2,239 · **Open issues**: 1,239 · **Contributors**: 131
+- **Stars**: 28,065 · **Forks**: 2,241 · **Open issues**: 1,241 · **Contributors**: 131
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 1466 · **Open PRs**: 295 · **Closed issues**: 813 · **Open issues**: 426 · **Commits**: 4164
+- **Releases**: 187 · **Merged PRs**: 1466 · **Open PRs**: 302 · **Closed issues**: 813 · **Open issues**: 428 · **Commits**: 4167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 8 | 66 | 72 | 19 | 49 | 125 |
-| last60d | 2026-07-15 | 14 | 151 | 124 | 43 | 91 | 272 |
-| 90d | 2026-06-15 | 23 | 222 | 161 | 60 | 124 | 521 |
-| last180d | 2026-03-17 | 60 | 467 | 256 | 169 | 264 | 1127 |
-| 360d | 2025-09-18 | 100 | 1039 | 294 | 438 | 389 | 2241 |
-| last720d | 2024-09-23 | 100 | 1464 | 295 | 813 | 426 | 4164 |
+| 30d | 2026-08-15 | 8 | 66 | 79 | 19 | 50 | 128 |
+| last60d | 2026-07-16 | 14 | 142 | 126 | 40 | 88 | 275 |
+| 90d | 2026-06-16 | 23 | 221 | 166 | 60 | 125 | 524 |
+| last180d | 2026-03-18 | 59 | 466 | 263 | 166 | 263 | 1130 |
+| 360d | 2025-09-19 | 100 | 1032 | 301 | 434 | 391 | 2244 |
+| last720d | 2024-09-24 | 100 | 1464 | 302 | 813 | 428 | 4167 |
 
 ## Release assets
 
@@ -123,14 +123,6 @@ Total: **123,409** lines of code across **690** files in the top 5 languages.
 | [crush_0.94.1_x86.apk](https://github.com/charmbracelet/crush/releases/download/v0.94.1/crush_0.94.1_x86.apk) | 24.1 MiB | `other` |
 | [crush_0.94.1_x86_64.apk](https://github.com/charmbracelet/crush/releases/download/v0.94.1/crush_0.94.1_x86_64.apk) | 25.7 MiB | `other` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/crush). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.92.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `crush` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -140,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:10:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:23:11Z._
