@@ -4,7 +4,7 @@
 
 Glamourous agentic coding for all 💘
 
-[![x-cmd/install — crush Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crush.svg)](https://x-cmd.com/install/crush)
+[![x-cmd/install — crush Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crush.svg)](https://x-cmd.com/install/crush)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **130,692** lines of code across **725** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,239 · **Forks**: 2,276 · **Open issues**: 1,264 · **Contributors**: 133
+- **Stars**: 28,248 · **Forks**: 2,279 · **Open issues**: 1,266 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 1486 · **Open PRs**: 330 · **Closed issues**: 819 · **Open issues**: 445 · **Commits**: 4214
+- **Releases**: 191 · **Merged PRs**: 1486 · **Open PRs**: 338 · **Closed issues**: 819 · **Open issues**: 447 · **Commits**: 4215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 10 | 70 | 91 | 22 | 56 | 144 |
-| last60d | 2026-07-24 | 16 | 130 | 138 | 37 | 91 | 271 |
-| 90d | 2026-06-24 | 24 | 214 | 189 | 57 | 131 | 524 |
-| last180d | 2026-03-26 | 58 | 461 | 284 | 157 | 270 | 1138 |
-| 360d | 2025-09-27 | 100 | 1027 | 329 | 426 | 408 | 2242 |
-| last720d | 2024-10-02 | 100 | 1484 | 330 | 819 | 445 | 4214 |
+| 30d | 2026-08-24 | 10 | 67 | 99 | 20 | 57 | 145 |
+| last60d | 2026-07-25 | 15 | 129 | 146 | 36 | 90 | 272 |
+| 90d | 2026-06-25 | 24 | 212 | 197 | 57 | 133 | 525 |
+| last180d | 2026-03-27 | 58 | 456 | 291 | 156 | 270 | 1139 |
+| 360d | 2025-09-28 | 100 | 1026 | 337 | 423 | 410 | 2243 |
+| last720d | 2024-10-03 | 100 | 1484 | 338 | 819 | 447 | 4215 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:22:45Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:17:24Z._

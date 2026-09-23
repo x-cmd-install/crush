@@ -4,7 +4,7 @@
 
 Glamourous agentic coding for all 💘
 
-[![x-cmd/install — crush Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crush.svg?lang=zh)](https://x-cmd.com/install/crush)
+[![x-cmd/install — crush Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crush.svg?lang=zh)](https://x-cmd.com/install/crush)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install crush
 
 ## 流行度
 
-- **Star**: 28,239 · **Fork**: 2,276 · **开放 issue**: 1,264 · **贡献者**: 133
+- **Star**: 28,248 · **Fork**: 2,279 · **开放 issue**: 1,266 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 191 · **已合并 PR**: 1486 · **开放 PR**: 330 · **已关闭 issue**: 819 · **开放 issue**: 445 · **提交数**: 4214
+- **发布数**: 191 · **已合并 PR**: 1486 · **开放 PR**: 338 · **已关闭 issue**: 819 · **开放 issue**: 447 · **提交数**: 4215
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 10 | 70 | 91 | 22 | 56 | 144 |
-| last60d | 2026-07-24 | 16 | 130 | 138 | 37 | 91 | 271 |
-| 90d | 2026-06-24 | 24 | 214 | 189 | 57 | 131 | 524 |
-| last180d | 2026-03-26 | 58 | 461 | 284 | 157 | 270 | 1138 |
-| 360d | 2025-09-27 | 100 | 1027 | 329 | 426 | 408 | 2242 |
-| last720d | 2024-10-02 | 100 | 1484 | 330 | 819 | 445 | 4214 |
+| 30d | 2026-08-24 | 10 | 67 | 99 | 20 | 57 | 145 |
+| last60d | 2026-07-25 | 15 | 129 | 146 | 36 | 90 | 272 |
+| 90d | 2026-06-25 | 24 | 212 | 197 | 57 | 133 | 525 |
+| last180d | 2026-03-27 | 58 | 456 | 291 | 156 | 270 | 1139 |
+| 360d | 2025-09-28 | 100 | 1026 | 337 | 423 | 410 | 2243 |
+| last720d | 2024-10-03 | 100 | 1484 | 338 | 819 | 447 | 4215 |
 
 ## Release 资产
 
@@ -132,4 +132,4 @@ crush 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:22:45Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:17:24Z._
