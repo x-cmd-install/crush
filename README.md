@@ -14,11 +14,11 @@ x install crush
 
 ## Code insight
 
-Total: **134,718** lines of code across **748** files in the top 5 languages.
+Total: **136,714** lines of code across **760** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 125,780 | 20,435 | 20,572 | 706 |
+| Go | 127,776 | 20,785 | 20,911 | 718 |
 | Yaml | 3,582 | 3 | 1,588 | 17 |
 | Svg | 1,624 | 2 | 7 | 6 |
 | Json | 1,463 | 0 | 0 | 3 |
@@ -32,27 +32,27 @@ Total: **134,718** lines of code across **748** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-09-29)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 64
 
 ## Popularity
 
-- **Stars**: 28,444 · **Forks**: 2,312 · **Open issues**: 1,284 · **Contributors**: 135
+- **Stars**: 28,460 · **Forks**: 2,313 · **Open issues**: 1,285 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 1500 · **Open PRs**: 372 · **Closed issues**: 821 · **Open issues**: 463 · **Commits**: 4253
+- **Releases**: 193 · **Merged PRs**: 1504 · **Open PRs**: 371 · **Closed issues**: 823 · **Open issues**: 462 · **Commits**: 4259
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 9 | 58 | 124 | 14 | 61 | 145 |
-| last60d | 2026-08-03 | 16 | 112 | 172 | 34 | 99 | 246 |
-| 90d | 2026-07-04 | 24 | 206 | 222 | 52 | 144 | 533 |
-| last180d | 2026-04-05 | 57 | 454 | 319 | 145 | 282 | 1140 |
-| 360d | 2025-10-07 | 100 | 1021 | 371 | 407 | 421 | 2264 |
-| last720d | 2024-10-12 | 100 | 1498 | 372 | 821 | 463 | 4253 |
+| 30d | 2026-09-03 | 9 | 58 | 123 | 15 | 57 | 151 |
+| last60d | 2026-08-04 | 16 | 113 | 171 | 34 | 96 | 252 |
+| 90d | 2026-07-05 | 24 | 209 | 221 | 54 | 143 | 539 |
+| last180d | 2026-04-06 | 57 | 456 | 317 | 147 | 280 | 1146 |
+| 360d | 2025-10-08 | 100 | 1025 | 370 | 408 | 420 | 2270 |
+| last720d | 2024-10-13 | 100 | 1502 | 371 | 823 | 462 | 4259 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:56:35Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:36:59Z._
