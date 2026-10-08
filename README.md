@@ -37,22 +37,22 @@ Total: **137,287** lines of code across **765** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,517 · **Forks**: 2,318 · **Open issues**: 1,291 · **Contributors**: 135
+- **Stars**: 28,535 · **Forks**: 2,319 · **Open issues**: 1,291 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 1510 · **Open PRs**: 379 · **Closed issues**: 825 · **Open issues**: 466 · **Commits**: 4270
+- **Releases**: 193 · **Merged PRs**: 1510 · **Open PRs**: 378 · **Closed issues**: 825 · **Open issues**: 466 · **Commits**: 4270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 9 | 55 | 128 | 14 | 57 | 108 |
-| last60d | 2026-08-08 | 15 | 116 | 172 | 32 | 98 | 244 |
-| 90d | 2026-07-09 | 22 | 205 | 225 | 52 | 140 | 518 |
-| last180d | 2026-04-10 | 55 | 453 | 322 | 147 | 277 | 1096 |
-| 360d | 2025-10-12 | 100 | 1024 | 378 | 407 | 424 | 2249 |
-| last720d | 2024-10-17 | 100 | 1508 | 379 | 825 | 466 | 4270 |
+| 30d | 2026-09-08 | 9 | 53 | 126 | 14 | 56 | 108 |
+| last60d | 2026-08-09 | 15 | 116 | 171 | 30 | 98 | 244 |
+| 90d | 2026-07-10 | 22 | 203 | 223 | 52 | 139 | 518 |
+| last180d | 2026-04-11 | 55 | 453 | 320 | 146 | 277 | 1096 |
+| 360d | 2025-10-13 | 100 | 1022 | 377 | 405 | 424 | 2249 |
+| last720d | 2024-10-18 | 100 | 1509 | 378 | 825 | 466 | 4270 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:22:00Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:22:05Z._
