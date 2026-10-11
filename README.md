@@ -31,28 +31,28 @@ Total: **137,431** lines of code across **767** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.98.1` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Latest**: `nightly` (2026-10-09)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 64
 
 ## Popularity
 
-- **Stars**: 28,579 · **Forks**: 2,323 · **Open issues**: 1,293 · **Contributors**: 135
+- **Stars**: 28,591 · **Forks**: 2,326 · **Open issues**: 1,295 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 1513 · **Open PRs**: 383 · **Closed issues**: 825 · **Open issues**: 468 · **Commits**: 4276
+- **Releases**: 195 · **Merged PRs**: 1513 · **Open PRs**: 383 · **Closed issues**: 826 · **Open issues**: 469 · **Commits**: 4277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 10 | 44 | 120 | 8 | 57 | 112 |
-| last60d | 2026-08-11 | 17 | 111 | 174 | 29 | 98 | 248 |
-| 90d | 2026-07-12 | 22 | 205 | 222 | 52 | 141 | 522 |
-| last180d | 2026-04-13 | 57 | 452 | 321 | 146 | 276 | 1100 |
-| 360d | 2025-10-15 | 100 | 1017 | 382 | 402 | 426 | 2253 |
-| last720d | 2024-10-20 | 100 | 1513 | 383 | 825 | 468 | 4276 |
+| 30d | 2026-09-11 | 10 | 40 | 118 | 7 | 52 | 113 |
+| last60d | 2026-08-12 | 17 | 111 | 174 | 30 | 99 | 249 |
+| 90d | 2026-07-13 | 22 | 202 | 222 | 53 | 141 | 523 |
+| last180d | 2026-04-14 | 56 | 450 | 320 | 147 | 276 | 1101 |
+| 360d | 2025-10-16 | 100 | 1012 | 382 | 402 | 427 | 2254 |
+| last720d | 2024-10-21 | 100 | 1513 | 383 | 826 | 469 | 4277 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:05:05Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:06:37Z._
