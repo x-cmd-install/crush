@@ -32,27 +32,27 @@ Total: **138,835** lines of code across **773** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-09)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 64
 
 ## Popularity
 
-- **Stars**: 28,627 · **Forks**: 2,336 · **Open issues**: 1,297 · **Contributors**: 136
+- **Stars**: 28,644 · **Forks**: 2,337 · **Open issues**: 1,301 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 1521 · **Open PRs**: 380 · **Closed issues**: 826 · **Open issues**: 471 · **Commits**: 4298
+- **Releases**: 195 · **Merged PRs**: 1521 · **Open PRs**: 381 · **Closed issues**: 826 · **Open issues**: 475 · **Commits**: 4299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 9 | 38 | 105 | 5 | 51 | 85 |
-| last60d | 2026-08-15 | 16 | 117 | 171 | 28 | 97 | 245 |
-| 90d | 2026-07-16 | 22 | 195 | 214 | 50 | 134 | 405 |
-| last180d | 2026-04-17 | 54 | 449 | 318 | 143 | 276 | 1081 |
-| 360d | 2025-10-19 | 100 | 1020 | 379 | 394 | 428 | 2233 |
-| last720d | 2024-10-24 | 100 | 1521 | 380 | 826 | 471 | 4298 |
+| 30d | 2026-09-15 | 8 | 38 | 104 | 5 | 52 | 86 |
+| last60d | 2026-08-16 | 16 | 116 | 171 | 28 | 100 | 246 |
+| 90d | 2026-07-17 | 21 | 186 | 212 | 48 | 137 | 406 |
+| last180d | 2026-04-18 | 53 | 449 | 318 | 143 | 278 | 1082 |
+| 360d | 2025-10-20 | 100 | 1016 | 380 | 389 | 432 | 2234 |
+| last720d | 2024-10-25 | 100 | 1521 | 381 | 826 | 475 | 4299 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:19:40Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:01:25Z._
