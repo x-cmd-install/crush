@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6237,
       "digest": "sha256:90c70701a7b454f7ed53c0a4a68f16a104a433c4d353099a55469fae923dac68",
-      "download_count": 6940,
+      "download_count": 7229,
       "created_at": "2026-10-09T12:16:08Z",
       "updated_at": "2026-10-09T12:16:09Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10227,
       "digest": "sha256:53b04f518ab3d04e686c131a0b8f3088af2aac1253903f8253bafdd036d13f21",
-      "download_count": 6069,
+      "download_count": 6325,
       "created_at": "2026-10-09T12:16:09Z",
       "updated_at": "2026-10-09T12:16:09Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/checksums.txt.sigstore.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 25982920,
       "digest": "sha256:66905a70a8e17a492e013441425b66a52240f638ccc3bcf6cbbffe6dadf468e7",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-10-09T12:16:02Z",
       "updated_at": "2026-10-09T12:16:07Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush-0.98.1-1-x86_64.pkg.tar.zst"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 25055774,
       "digest": "sha256:d6d960029478d08b0da05e753e7a988cf35109a321d760b6d0638ad81ea095ec",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-09T12:15:51Z",
       "updated_at": "2026-10-09T12:16:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush-0.98.1-1.i386.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 26760414,
       "digest": "sha256:655d20fdba3a3415b3236e31446d9893c7a98d194dd77109325e4fc0721ee5d4",
-      "download_count": 87,
+      "download_count": 90,
       "created_at": "2026-10-09T12:15:52Z",
       "updated_at": "2026-10-09T12:16:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush-0.98.1-1.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2256026,
       "digest": "sha256:d11becda9ffc10a86340c6e973fab4e744c22737bf2516635239ada9aa04fad0",
-      "download_count": 297,
+      "download_count": 310,
       "created_at": "2026-10-09T12:15:45Z",
       "updated_at": "2026-10-09T12:15:46Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush-0.98.1.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 25791229,
       "digest": "sha256:e514e74221bf71f482d1d904c9e4741c0f1f2ce7033f86c2c7c71dce539be06d",
-      "download_count": 324,
+      "download_count": 350,
       "created_at": "2026-10-09T12:15:51Z",
       "updated_at": "2026-10-09T12:16:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_aarch64.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 26754006,
       "digest": "sha256:6918dcd78da49ab58c05215f1d985de53b8c786792c9483bd8ab4eb12a48e266",
-      "download_count": 168,
+      "download_count": 171,
       "created_at": "2026-10-09T12:16:05Z",
       "updated_at": "2026-10-09T12:16:07Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 26604927,
       "digest": "sha256:88f42f9302cbf72cd268d05b52395266acecd9b44afa4a1c4dec8c6cf0879ab3",
-      "download_count": 63,
+      "download_count": 69,
       "created_at": "2026-10-09T12:15:15Z",
       "updated_at": "2026-10-09T12:15:45Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Android_arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 26241758,
       "digest": "sha256:93997c0a1046dbe28e9145131d6b4992005185fb12608dc8609929b38f63934c",
-      "download_count": 74,
+      "download_count": 79,
       "created_at": "2026-10-09T12:15:45Z",
       "updated_at": "2026-10-09T12:15:57Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_armv7.apk"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 26038891,
       "digest": "sha256:178710f9e43abd3f1df29756309950f42ed229737e4f2fb9bc5f36aeff07a3c3",
-      "download_count": 3596,
+      "download_count": 3803,
       "created_at": "2026-10-09T12:15:05Z",
       "updated_at": "2026-10-09T12:15:10Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Darwin_arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 28120670,
       "digest": "sha256:23e9f344d3dad67c5ec774f991e63a0f5eb566fc6b22a06a09ef84dc33114cd1",
-      "download_count": 344,
+      "download_count": 369,
       "created_at": "2026-10-09T12:15:05Z",
       "updated_at": "2026-10-09T12:15:13Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Darwin_x86_64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 25049868,
       "digest": "sha256:176d0b086f2cb05cc83a84e8ea6884cadf582341cf109fcbad2422be2c516c6b",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-10-09T12:16:03Z",
       "updated_at": "2026-10-09T12:16:07Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_i386.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 24701201,
       "digest": "sha256:098e875c1d9501822d08ef14ab094f24cfc87396385af5402994bf741a673b99",
-      "download_count": 883,
+      "download_count": 948,
       "created_at": "2026-10-09T12:15:11Z",
       "updated_at": "2026-10-09T12:15:25Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Linux_arm64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 25068939,
       "digest": "sha256:6d972d44e177130c27a76c4316a8a40ac6a4357dcd2f79b7904a0b31801a0fce",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-10-09T12:15:05Z",
       "updated_at": "2026-10-09T12:15:10Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Linux_i386.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 26770143,
       "digest": "sha256:d85d913effef350f0152f594a70bd9749ad455bf15af77bb0d2b731036079885",
-      "download_count": 17536,
+      "download_count": 19346,
       "created_at": "2026-10-09T12:15:05Z",
       "updated_at": "2026-10-09T12:15:10Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Linux_x86_64.tar.gz"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 28356437,
       "digest": "sha256:633b2a69d98466cf2e6f2b4716701ceeb3406758e62668cbecd735213ef65a5e",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-10-09T12:15:05Z",
       "updated_at": "2026-10-09T12:15:10Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Openbsd_x86_64.tar.gz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 24772197,
       "digest": "sha256:f463c0f748247a7bef759f32d3e85c4fa9a781d1626d7320b6f159e55cc2c626",
-      "download_count": 112,
+      "download_count": 116,
       "created_at": "2026-10-09T12:15:14Z",
       "updated_at": "2026-10-09T12:15:43Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Windows_arm64.zip"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 26008931,
       "digest": "sha256:b4e66f01c887aa865a916cda27edf1a0a17175d3fbf8e3a86427c18c22a2ef51",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2026-10-09T12:15:23Z",
       "updated_at": "2026-10-09T12:15:48Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Windows_i386.zip"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 27319516,
       "digest": "sha256:f0e456c560cc2e69eb2d4565768ae0fe2e04f4da90a0898374c45ab2caa33f2e",
-      "download_count": 1815,
+      "download_count": 2036,
       "created_at": "2026-10-09T12:15:24Z",
       "updated_at": "2026-10-09T12:15:50Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Windows_x86_64.zip"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 299128,
       "digest": "sha256:3eca54e8bac70c753c4516bffe6251ec30710829ef6554f351858abc4dbe5974",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-09T12:16:08Z",
       "updated_at": "2026-10-09T12:16:08Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_Windows_x86_64.zip.sbom.json"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 28047985,
       "digest": "sha256:ee4261aa12b971614520a82826191f87008df1e131dffe86f307568cdb379e9d",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-10-09T12:15:49Z",
       "updated_at": "2026-10-09T12:16:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.98.1/crush_0.98.1_x86_64.apk"
