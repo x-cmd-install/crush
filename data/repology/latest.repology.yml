@@ -1,15 +1,3 @@
-- repo: aosc
-  srcname: app-vibe/crush
-  binname: crush
-  visiblename: crush
-  version: 0.92.0
-  origversion: null
-  status: outdated
-  summary: CLI-based AI coding agent
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -34,7 +22,7 @@
   visiblename: crush
   version: 0.98.1
   origversion: 0.98.1-alt1
-  status: newest
+  status: outdated
   summary: The glamourous AI coding agent for your favourite terminal
   maintainers:
     - iv@altlinux.org
@@ -42,12 +30,24 @@
     - FSL-1.1-MIT
   categories:
     - Development/Other
+- repo: aosc
+  srcname: app-vibe/crush
+  binname: crush
+  visiblename: crush
+  version: 0.92.0
+  origversion: null
+  status: outdated
+  summary: CLI-based AI coding agent
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: aur
   srcname: crush
   binname: crush
   visiblename: crush
-  version: 0.98.1
-  origversion: 0.98.1-1
+  version: 0.98.2
+  origversion: 0.98.2-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -59,8 +59,8 @@
   srcname: crush-bin
   binname: crush-bin
   visiblename: crush-bin
-  version: 0.98.1
-  origversion: 0.98.1-1
+  version: 0.98.2
+  origversion: 0.98.2-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -84,7 +84,7 @@
   visiblename: Crush
   version: 0.98.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Glamourous agentic coding for all
 - repo: freebsd
   srcname: misc/crush
@@ -92,7 +92,7 @@
   visiblename: misc/crush
   version: 0.98.1
   origversion: 0.98.1_1
-  status: newest
+  status: outdated
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - tagattie@freebsd.org
@@ -153,7 +153,7 @@
   visiblename: crush
   version: 0.98.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - nix@nixlink.net
@@ -167,7 +167,7 @@
   visiblename: devel/crush
   version: 0.98.1
   origversion: null
-  status: newest
+  status: outdated
   summary: coding agent with a rich terminal UI
   maintainers:
     - ports@openbsd.org
