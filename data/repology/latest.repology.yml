@@ -20,9 +20,9 @@
     - crush
     - crush-debuginfo
   visiblename: crush
-  version: 0.98.1
-  origversion: 0.98.1-alt1
-  status: outdated
+  version: 0.98.2
+  origversion: 0.98.2-alt1
+  status: newest
   summary: The glamourous AI coding agent for your favourite terminal
   maintainers:
     - iv@altlinux.org
@@ -90,9 +90,9 @@
   srcname: misc/crush
   binname: crush
   visiblename: misc/crush
-  version: 0.98.1
-  origversion: 0.98.1_1
-  status: outdated
+  version: 0.98.2
+  origversion: null
+  status: newest
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - tagattie@freebsd.org
@@ -220,9 +220,9 @@
   srcname: crush
   binname: crush
   visiblename: crush
-  version: 0.97.1
+  version: 0.98.2
   origversion: null
-  status: outdated
+  status: newest
   summary: The glamourous AI coding agent for your favourite terminal
   maintainers:
     - ancientcatz@github
