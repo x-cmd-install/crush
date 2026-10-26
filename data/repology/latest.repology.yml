@@ -82,9 +82,9 @@
 - repo: chocolatey
   binname: crush
   visiblename: Crush
-  version: 0.98.1
+  version: 0.98.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Glamourous agentic coding for all
 - repo: freebsd
   srcname: misc/crush
