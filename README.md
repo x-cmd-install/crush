@@ -14,11 +14,11 @@ x install crush
 
 ## Code insight
 
-Total: **154,340** lines of code across **897** files in the top 5 languages.
+Total: **154,487** lines of code across **897** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 145,546 | 24,413 | 23,637 | 855 |
+| Go | 145,693 | 24,427 | 23,669 | 855 |
 | Yaml | 2,983 | 3 | 1,242 | 17 |
 | Json | 1,882 | 0 | 0 | 3 |
 | Svg | 1,624 | 2 | 7 | 6 |
@@ -32,27 +32,27 @@ Total: **154,340** lines of code across **897** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-29)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 65
 
 ## Popularity
 
-- **Stars**: 28,906 · **Forks**: 2,342 · **Open issues**: 1,322 · **Contributors**: 142
+- **Stars**: 28,909 · **Forks**: 2,344 · **Open issues**: 1,323 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 197 · **Merged PRs**: 1577 · **Open PRs**: 242 · **Closed issues**: 1039 · **Open issues**: 283 · **Commits**: 4416
+- **Releases**: 197 · **Merged PRs**: 1578 · **Open PRs**: 245 · **Closed issues**: 1039 · **Open issues**: 284 · **Commits**: 4420
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 50 | 59 | 15 | 24 | 101 |
-| last60d | 2026-09-02 | 13 | 128 | 153 | 45 | 70 | 257 |
-| 90d | 2026-08-03 | 20 | 184 | 185 | 67 | 106 | 378 |
-| last180d | 2026-05-05 | 48 | 448 | 232 | 161 | 220 | 1021 |
-| 360d | 2025-11-06 | 100 | 1017 | 242 | 535 | 267 | 2189 |
-| last720d | 2024-11-11 | 100 | 1577 | 242 | 1039 | 283 | 4416 |
+| 30d | 2026-10-03 | 5 | 49 | 63 | 14 | 24 | 105 |
+| last60d | 2026-09-03 | 13 | 125 | 156 | 44 | 68 | 261 |
+| 90d | 2026-08-04 | 20 | 182 | 188 | 66 | 104 | 382 |
+| last180d | 2026-05-06 | 48 | 443 | 235 | 158 | 220 | 1025 |
+| 360d | 2025-11-07 | 100 | 1014 | 245 | 532 | 268 | 2193 |
+| last720d | 2024-11-12 | 100 | 1578 | 245 | 1039 | 284 | 4420 |
 
 ## Release assets
 
@@ -126,7 +126,7 @@ Total: **154,340** lines of code across **897** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/crush). **3** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/crush). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -141,4 +141,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:24:13Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:27:40Z._
