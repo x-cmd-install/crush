@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-29T16:06:21Z",
-  "updated_at": "2026-10-30T10:00:05Z",
+  "updated_at": "2026-11-02T14:50:15Z",
   "published_at": "2026-10-29T16:25:08Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6237,
       "digest": "sha256:d242f8beab0413655be3843a10ee3ce07c6c1b35fa915410ae8f660abf8f8309",
-      "download_count": 1810,
+      "download_count": 2207,
       "created_at": "2026-10-29T16:25:07Z",
       "updated_at": "2026-10-29T16:25:07Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10371,
       "digest": "sha256:9629b06c76e958be09e6b6ff0710042e196f61bb7edbb8ac1f114353ecfa2305",
-      "download_count": 1702,
+      "download_count": 2077,
       "created_at": "2026-10-29T16:25:07Z",
       "updated_at": "2026-10-29T16:25:07Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23951596,
       "digest": "sha256:6881697dea11ca24f69d63a5789cbd1861b2925ddcf9ad80566f8707e504e764",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-29T16:25:00Z",
       "updated_at": "2026-10-29T16:25:03Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1-aarch64.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 26013559,
       "digest": "sha256:d0f14d2ae6c727b89185bf7eb7954e0f664807513aada0237799ee095d14e134",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-10-29T16:25:01Z",
       "updated_at": "2026-10-29T16:25:05Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1-x86_64.pkg.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 25669527,
       "digest": "sha256:d46da3e405101f6bbf41d8a0fd34ee51914d49d66fe5237c06590da0eb566af4",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-29T16:24:58Z",
       "updated_at": "2026-10-29T16:25:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1.aarch64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 26133408,
       "digest": "sha256:40eb12ad3cb833eb16a076d8ef7659bde2e103e79958aa5aba9e636d212151b6",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-29T16:24:59Z",
       "updated_at": "2026-10-29T16:25:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1.armv7hl.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 26044767,
       "digest": "sha256:ce84a5a9c7a20453afee58dc7b3c7e7d5c5cd64525a0b4827b3eedb8e5547945",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-29T16:24:59Z",
       "updated_at": "2026-10-29T16:25:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1.i386.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 27836534,
       "digest": "sha256:395e91edd35c6ec23622136b429afe2a7f6427d533c15cd4c5a8d5a203d2e5ca",
-      "download_count": 24,
+      "download_count": 30,
       "created_at": "2026-10-29T16:25:00Z",
       "updated_at": "2026-10-29T16:25:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0-1.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2339283,
       "digest": "sha256:f3d96551ee6952370771dca29b102f7e8fe8cbb7c25e5817e7dfbbf5fa8d05df",
-      "download_count": 188,
+      "download_count": 224,
       "created_at": "2026-10-29T16:24:56Z",
       "updated_at": "2026-10-29T16:24:57Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush-0.99.0.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 25908919,
       "digest": "sha256:77afbad00f6e3bc350ae32b9e4fa1d6b2574e905300be434af1f7cf1bb9a262a",
-      "download_count": 93,
+      "download_count": 126,
       "created_at": "2026-10-29T16:24:57Z",
       "updated_at": "2026-10-29T16:24:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_aarch64.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 26931764,
       "digest": "sha256:a9595523592ef7077bdcdf39a3ff9b0191d6c95b71d351ea00028c8eac40f260",
-      "download_count": 43,
+      "download_count": 62,
       "created_at": "2026-10-29T16:25:02Z",
       "updated_at": "2026-10-29T16:25:05Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 26772994,
       "digest": "sha256:d18cd1f961a4c587f26a50aad8ef1fed38ad4362bb6237807e57cda1c170f78c",
-      "download_count": 51,
+      "download_count": 54,
       "created_at": "2026-10-29T16:24:56Z",
       "updated_at": "2026-10-29T16:24:58Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Android_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 24860036,
       "digest": "sha256:02b7f05c26c23de2559ec9df4aa198541d423300461f79239f079634fd281d5d",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-10-29T16:25:02Z",
       "updated_at": "2026-10-29T16:25:04Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_arm64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 26422218,
       "digest": "sha256:028c700f9c394a6dffb58d2fb2870e93a1f9b809c2bad350c49ddd07e601c2c2",
-      "download_count": 19,
+      "download_count": 25,
       "created_at": "2026-10-29T16:24:57Z",
       "updated_at": "2026-10-29T16:25:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_armv7.apk"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 26204394,
       "digest": "sha256:661c8754359b0c6ccb6076c01f99fe4134c3819888ddc60c372b9d7c336898d3",
-      "download_count": 1884,
+      "download_count": 2307,
       "created_at": "2026-10-29T16:24:47Z",
       "updated_at": "2026-10-29T16:24:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Darwin_arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 28301438,
       "digest": "sha256:05b6494dd458ad374241faaf619140ea8ceb87f545d1fc30be92d5af5262ea29",
-      "download_count": 122,
+      "download_count": 153,
       "created_at": "2026-10-29T16:24:52Z",
       "updated_at": "2026-10-29T16:24:56Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Darwin_x86_64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 24858221,
       "digest": "sha256:83ba6e739ad3768b480ee3df0d28cb58b7ca9bde5c9384a8b203224aaa5a27cb",
-      "download_count": 308,
+      "download_count": 381,
       "created_at": "2026-10-29T16:24:47Z",
       "updated_at": "2026-10-29T16:24:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Linux_arm64.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 25298302,
       "digest": "sha256:1e3b0e5ce4ba15e59f726fab645e9304622c7eb47b6a595445a8a4a0194e8d61",
-      "download_count": 29,
+      "download_count": 33,
       "created_at": "2026-10-29T16:24:53Z",
       "updated_at": "2026-10-29T16:24:56Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Linux_armv7.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 25229133,
       "digest": "sha256:de4673aa4890d3d084e20141a726fd3970be6c5482ae59e3908c7b2aede24a53",
-      "download_count": 25,
+      "download_count": 27,
       "created_at": "2026-10-29T16:24:47Z",
       "updated_at": "2026-10-29T16:24:52Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Linux_i386.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 26938863,
       "digest": "sha256:ec20f001028dfb7b6427225f0cf5215081275c8f09f45001a8535847cc4fd6ea",
-      "download_count": 6563,
+      "download_count": 8405,
       "created_at": "2026-10-29T16:24:56Z",
       "updated_at": "2026-10-29T16:24:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Linux_x86_64.tar.gz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 24940155,
       "digest": "sha256:46f9189454368a39117e888809a8171f46ddfc9a13b4e685ae7a02879c328768",
-      "download_count": 40,
+      "download_count": 43,
       "created_at": "2026-10-29T16:24:51Z",
       "updated_at": "2026-10-29T16:24:53Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Windows_arm64.zip"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 26173827,
       "digest": "sha256:8383da37915f8bc8133187ebb9048b56fba1b262393030baaebbb5fbfc8c2b04",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-10-29T16:24:56Z",
       "updated_at": "2026-10-29T16:24:57Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Windows_i386.zip"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 27493652,
       "digest": "sha256:46b24720b6cfe29d6fa97491eb8262184ca05624d805ccc360974ecc3d728c88",
-      "download_count": 633,
+      "download_count": 781,
       "created_at": "2026-10-29T16:24:56Z",
       "updated_at": "2026-10-29T16:25:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_Windows_x86_64.zip"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 26407977,
       "digest": "sha256:badffe6c755b3746b94f695d9d58465f42fb2fd28c74d27c10abd70496bdbd08",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-10-29T16:24:58Z",
       "updated_at": "2026-10-29T16:25:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_x86.apk"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 28211398,
       "digest": "sha256:ad8af9ccc24653c747b98102385abc9793ce5db16981ceca5b3609d983f96ee9",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-10-29T16:24:57Z",
       "updated_at": "2026-10-29T16:25:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/crush_0.99.0_x86_64.apk"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 28449,
       "digest": "sha256:79198c6a3203f8f6023e3296f7bae556ccdb70a33d49857ab27e1a7807468b9e",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-29T16:35:58Z",
       "updated_at": "2026-10-29T16:35:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.99.0/packslip.sigstore.json"
@@ -2379,7 +2379,7 @@
   ],
   "tarball_url": "https://api.github.com/repos/charmbracelet/crush/tarball/v0.99.0",
   "zipball_url": "https://api.github.com/repos/charmbracelet/crush/zipball/v0.99.0",
-  "body": "# Catwalk v3, hooks!\r\n\r\nA big one! Crush now runs on Catwalk v3, hooks can see every part of a run, and editors that host Crush get a whole new set of tools to feel right at home.\r\n\r\n## Small overview of [Catwalk v3][catwalk]:\r\n\r\nCrush now speaks [Catwalk v3][catwalk]. Provider `type` describes the API format a provider uses, not who made it:\r\n\r\n- `completions`: OpenAI-compatible APIs\r\n- `responses`: OpenAI, or anything routed through it\r\n- `messages`: Anthropic-compatible APIs\r\n\r\nYour config is migrated automatically when it loads, so `openai`, `openai-compat` and `anthropic` keep working. No edits needed.\r\n\r\nThe `provider add` and `model add` flags follow along:\r\n\r\n```bash\r\ncrush provider add deepseek \\\r\n  --type completions \\\r\n  --base-url \"https://api.deepseek.com/v1\" \\\r\n  --api-key \"$DEEPSEEK_API_KEY\"\r\n\r\ncrush model add deepseek/deepseek-chat --thinking toggleable --max-attachments 5\r\n```\r\n\r\n- `--can-reason` is now `--thinking always|never|toggleable`\r\n- `--max-attachments N` is new\r\n- Reasoning levels show friendly names in the picker, like \"X-High\"\r\n\r\n[catwalk]: https://github.com/charmbracelet/catwalk/releases/tag/v3.0.0\r\n\r\n## Hooks, everywhere 🪝\r\n\r\nHooks are no longer just about tools. They can now follow the whole run: sessions, turns, permissions and more!\r\n\r\nHooks are now checked against the list of known events, so a typo gets caught early. The docs cover each event and how it lines up with Claude Code.\r\n\r\n## Client/server mode\r\n\r\nIf you build something that runs Crush inside it, this release is for you:\r\n\r\n- Host themes: the host app can theme the TUI over the server API, so Crush matches your applications.\r\n- Host context: the host can tell Crush what's in view, like open files, and those files appear in completions.\r\n- Append to the next prompt: clients can add text the agent reads with the next prompt, without starting a run or cluttering the chat.\r\n- Shared viewing: clients can see which session other clients are looking at.\r\n- Piped permissions: set `CRUSH_PERMISSIONS_PIPED=1` and the host answers permission prompts, so you aren't asked twice.\r\n- `http://` addresses work as an alias for `tcp://` when starting the server.\r\n\r\n## Steadier server\r\n\r\n- `SIGHUP` now reloads the config instead of stopping the server.\r\n- Closing the terminal or stopping Crush through a service manager now shuts down gracefully, so work in progress is saved instead of left looking stuck.\r\n\r\nThat's all for now!\r\nCharm XX 💫\r\n\r\n## Changelog\r\n### New!\r\n* 9dac45bdfa3e978a76c595b238c5a5f37915c748: feat(config): declare the hook event list and validate hooks against it (@taciturnaxolotl)\r\n* bdc53ce00036b0a4ecef3fa7559d9f6e0a47581e: feat(hooks): add PostToolUse and PostToolUseFailure (@taciturnaxolotl)\r\n* 48c0224d2cbfaa24c4196caf4788b31589b1cf55: feat(hooks): add session, turn, permission and compaction lifecycle hooks (@taciturnaxolotl)\r\n* 27cb41b943ec9c4522f1928b2877b01a2139436f: feat(permission): tell subscribers when a prompt is cancelled (@taciturnaxolotl)\r\n* a0f462f39330d1cdef52ecd2e9bf8695cc445181: feat(server): host context (#4148) (@andrinoff)\r\n* 94592ce338bc766685775d4a85a1ffcd8acbdf54: feat(server): let client append to next prompt (#4176) (@andrinoff)\r\n* aae2ee262ce236f3b649fd4490a6a35301b6f7e2: feat(server): reload config on SIGHUP instead of stopping (@taciturnaxolotl)\r\n* 52dd976b9ca94ab108c0b4be7e7f52071a303aed: feat(server): tell clients which session other clients view (#4178) (@andrinoff)\r\n* a2c8a9519bf0a883b3c14826a7e6ca8e9397ca98: feat: Catwalk v3 (#3829) (@andrinoff)\r\n* 334982499a89f2cffb8311afd78e253568e1ac01: feat: allow a host application theme the TUI over server API (#4127) (@andrinoff)\r\n### Fixed\r\n* 451bedc0cd1f56d16e76bbb2b44b83da94a2a576: fix(config): keep tests from rewriting the real global config (@taciturnaxolotl)\r\n* 0e989d2a4580b464e7d68d049ec3627a732391b3: fix(server): preserve work in progress when Crush is told to quit (@taciturnaxolotl)\r\n* 21dd7482afe2846d8cea8353cbd1ee7f41d2e9a9: fix(tools): stop tool failures from ending the agent turn (#4143) (@andreynering)\r\n* eded979b927cc6619f645ff16c2d4324cf985f45: fix(ui): drop the dot between git branch and path in header (@taciturnaxolotl)\r\n* 685274b4514815b92a0d09af3e00054527b7061e: fix(ui): give the thinking spinner label its own color (@taciturnaxolotl)\r\n* 3629f66a574b978c6a9e93dff1da1f8e76928646: fix(ui): keep forked child processes from writing over the TUI (@taciturnaxolotl)\r\n* a945ccf9c17a59d98a9e07107011a88ded0ac513: fix(ui): stop the first prompt in a new session from duplicating itself (@taciturnaxolotl)\r\n* 3538c722ffce86ce41543df72c6efa4ea5e1672e: fix(ui): stop the yolo banner from inverting its meaning when truncated (@taciturnaxolotl)\r\n* ebf0e55bdf2067bde8eb9e1cb6e95a83cf83f70f: fix: add a flag to not show permissions (#4153) (@andrinoff)\r\n### Docs\r\n* 6c3ce0c8499e04e169393ff7732feb3ab9067bfa: docs(hooks): document the lifecycle events and Claude Code compatibility (@taciturnaxolotl)\r\n* 57f5901abe7e381af681745f308d3e689148b06a: docs(tools): stop background jobs from being waited on immediately (@taciturnaxolotl)\r\n### Other stuff\r\n* 82c0199068ad7656c105153a8cc1171a3a7d9c1a: chore: auto-update files (@charmcli)\r\n* a94ff94bcfa0a809246490d1fe43a8a9c1cd6745: chore: auto-update files (@charmcli)\r\n* 6366afc848fd7ee40c2adf1f44dd0210eb2590d9: chore: auto-update files (@charmcli)\r\n* 82b035a8daed905f3830f323e4ab3f121623f20a: chore: bump catwalk (@andrinoff)\r\n* 070e189933bcd1d3cecdae6f56dc9c30b9d39054: chore: regenerate golden files (@taciturnaxolotl)\r\n* 3e7d94e903f1cc173514efe5175a7d9ff2a6b680: fix(llama.cpp): double /v1 in model fetching (#4137) (@moul)\r\n* 40f57825cdfddf217c11cd293808aaf421f00ec0: refactor(hooks): run every event through one Event and one Runner (@taciturnaxolotl)\r\n* 81e41ae74f3ab7e5d25947f96a72af596b6b2605: server: support http:// as a tcp:// alias (@meowgorithm)\r\n\r\n---\r\n\r\n<details>\r\n<summary>Verifying the artifacts</summary>\r\n\r\nFirst, download the [`checksums.txt` file](https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt) and the [`checksums.txt.sigstore.json` file](https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt.sigstore.json) files, for example, with `wget`:\r\n\r\n```bash\r\nwget 'https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt'\r\nwget 'https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt.sigstore.json'\r\n```\r\n\r\nThen, verify it using [`cosign`](https://github.com/sigstore/cosign):\r\n\r\n```bash\r\ncosign verify-blob \\\r\n  --certificate-identity-regexp '^https://github.com/charmbracelet/crush/\\.github/workflows/(release|nightly)\\.yml@' \\\r\n  --certificate-oidc-issuer 'https://token.actions.githubusercontent.com' \\\r\n  --bundle 'checksums.txt.sigstore.json' \\\r\n  ./checksums.txt\r\n```\r\n\r\nIf the output is `Verified OK`, you can safely use it to verify the checksums of other artifacts you downloaded from the release using `sha256sum`:\r\n\r\n```bash\r\nsha256sum --ignore-missing -c checksums.txt\r\n```\r\n\r\nDone! You artifacts are now verified!\r\n\r\n</details>\r\n\r\n<a href=\"https://charm.land/\"><img alt=\"The Charm logo\" src=\"https://stuff.charm.sh/charm-banner-next.jpg\" width=\"400\"></a>\r\n\r\nThoughts? Questions? We love hearing from you. Feel free to reach out on [X](https://x.com/charmcli), [Discord](https://charm.land/discord), [Slack](https://charm.land/slack), [The Fediverse](https://mastodon.social/@charmcli), [Bluesky](https://bsky.app/profile/charm.land).\r\n",
+  "body": "# Hooks, Catwalk v3!\r\n\r\nA big one! Crush now runs on Catwalk v3, hooks can see every part of a run, and editors that host Crush get a whole new set of tools to feel right at home.\r\n\r\n## Hooks, everywhere 🪝\r\n\r\nHooks are no longer just about tools. They can now follow the whole run: sessions, turns, permissions and more!\r\n\r\nHooks can now step in after a tool runs, too. Redact secrets from the output before the model sees them, add a note, or stop the turn. If the tool already did something it shouldn't have, your hook can tell the model \"you committed without running the tests.\"\r\n\r\n```bash\r\nhook add TurnEnd --name \"ding\" --command 'afplay /System/Library/Sounds/Glass.aiff'\r\n```\r\n\r\nYou can read more [here](https://github.com/charmbracelet/crush/tree/main/docs/hooks#readme)\r\n\r\n## Client/server mode\r\n\r\nIf you build something that runs Crush inside it, this release is for you:\r\n\r\n- Host themes: the host app can theme the TUI over the server API, so Crush matches your applications.\r\n- Host context: the host can tell Crush what's in view, like open files, and those files appear in completions.\r\n- Append to the next prompt: clients can add text the agent reads with the next prompt, without starting a run or cluttering the chat.\r\n- Shared viewing: clients can see which session other clients are looking at.\r\n- Piped permissions: set `CRUSH_PERMISSIONS_PIPED=1` and the host answers permission prompts, so you aren't asked twice.\r\n- `http://` addresses work as an alias for `tcp://` when starting the server.\r\n\r\n## Steadier server\r\n\r\n- `SIGHUP` now reloads the config instead of stopping the server.\r\n- Closing the terminal or stopping Crush through a service manager now shuts down gracefully, so work in progress is saved instead of left looking stuck.\r\n\r\n## Small overview of [Catwalk v3][catwalk]:\r\n\r\nCrush now speaks [Catwalk v3][catwalk]. Provider `type` describes the API format a provider uses, not who made it:\r\n\r\n- `completions`: OpenAI-compatible APIs\r\n- `responses`: OpenAI, or anything routed through it\r\n- `messages`: Anthropic-compatible APIs\r\n\r\nYour config is migrated automatically when it loads, so `openai`, `openai-compat` and `anthropic` keep working. No edits needed.\r\n\r\nThe `provider add` and `model add` flags follow along:\r\n\r\n```bash\r\ncrush provider add deepseek \\\r\n  --type completions \\\r\n  --base-url \"https://api.deepseek.com/v1\" \\\r\n  --api-key \"$DEEPSEEK_API_KEY\"\r\n\r\ncrush model add deepseek/deepseek-chat --thinking toggleable --max-attachments 5\r\n```\r\n\r\n- `--can-reason` is now `--thinking always|never|toggleable`\r\n- `--max-attachments N` is new\r\n- Reasoning levels show friendly names in the picker, like \"X-High\"\r\n\r\n[catwalk]: https://github.com/charmbracelet/catwalk/releases/tag/v3.0.0\r\n\r\nThat's all for now!\r\nCharm XX 💫\r\n\r\n## Changelog\r\n### New!\r\n* 9dac45bdfa3e978a76c595b238c5a5f37915c748: feat(config): declare the hook event list and validate hooks against it (@taciturnaxolotl)\r\n* bdc53ce00036b0a4ecef3fa7559d9f6e0a47581e: feat(hooks): add PostToolUse and PostToolUseFailure (@taciturnaxolotl)\r\n* 48c0224d2cbfaa24c4196caf4788b31589b1cf55: feat(hooks): add session, turn, permission and compaction lifecycle hooks (@taciturnaxolotl)\r\n* 27cb41b943ec9c4522f1928b2877b01a2139436f: feat(permission): tell subscribers when a prompt is cancelled (@taciturnaxolotl)\r\n* a0f462f39330d1cdef52ecd2e9bf8695cc445181: feat(server): host context (#4148) (@andrinoff)\r\n* 94592ce338bc766685775d4a85a1ffcd8acbdf54: feat(server): let client append to next prompt (#4176) (@andrinoff)\r\n* aae2ee262ce236f3b649fd4490a6a35301b6f7e2: feat(server): reload config on SIGHUP instead of stopping (@taciturnaxolotl)\r\n* 52dd976b9ca94ab108c0b4be7e7f52071a303aed: feat(server): tell clients which session other clients view (#4178) (@andrinoff)\r\n* a2c8a9519bf0a883b3c14826a7e6ca8e9397ca98: feat: Catwalk v3 (#3829) (@andrinoff)\r\n* 334982499a89f2cffb8311afd78e253568e1ac01: feat: allow a host application theme the TUI over server API (#4127) (@andrinoff)\r\n### Fixed\r\n* 451bedc0cd1f56d16e76bbb2b44b83da94a2a576: fix(config): keep tests from rewriting the real global config (@taciturnaxolotl)\r\n* 0e989d2a4580b464e7d68d049ec3627a732391b3: fix(server): preserve work in progress when Crush is told to quit (@taciturnaxolotl)\r\n* 21dd7482afe2846d8cea8353cbd1ee7f41d2e9a9: fix(tools): stop tool failures from ending the agent turn (#4143) (@andreynering)\r\n* eded979b927cc6619f645ff16c2d4324cf985f45: fix(ui): drop the dot between git branch and path in header (@taciturnaxolotl)\r\n* 685274b4514815b92a0d09af3e00054527b7061e: fix(ui): give the thinking spinner label its own color (@taciturnaxolotl)\r\n* 3629f66a574b978c6a9e93dff1da1f8e76928646: fix(ui): keep forked child processes from writing over the TUI (@taciturnaxolotl)\r\n* a945ccf9c17a59d98a9e07107011a88ded0ac513: fix(ui): stop the first prompt in a new session from duplicating itself (@taciturnaxolotl)\r\n* 3538c722ffce86ce41543df72c6efa4ea5e1672e: fix(ui): stop the yolo banner from inverting its meaning when truncated (@taciturnaxolotl)\r\n* ebf0e55bdf2067bde8eb9e1cb6e95a83cf83f70f: fix: add a flag to not show permissions (#4153) (@andrinoff)\r\n### Docs\r\n* 6c3ce0c8499e04e169393ff7732feb3ab9067bfa: docs(hooks): document the lifecycle events and Claude Code compatibility (@taciturnaxolotl)\r\n* 57f5901abe7e381af681745f308d3e689148b06a: docs(tools): stop background jobs from being waited on immediately (@taciturnaxolotl)\r\n### Other stuff\r\n* 82c0199068ad7656c105153a8cc1171a3a7d9c1a: chore: auto-update files (@charmcli)\r\n* a94ff94bcfa0a809246490d1fe43a8a9c1cd6745: chore: auto-update files (@charmcli)\r\n* 6366afc848fd7ee40c2adf1f44dd0210eb2590d9: chore: auto-update files (@charmcli)\r\n* 82b035a8daed905f3830f323e4ab3f121623f20a: chore: bump catwalk (@andrinoff)\r\n* 070e189933bcd1d3cecdae6f56dc9c30b9d39054: chore: regenerate golden files (@taciturnaxolotl)\r\n* 3e7d94e903f1cc173514efe5175a7d9ff2a6b680: fix(llama.cpp): double /v1 in model fetching (#4137) (@moul)\r\n* 40f57825cdfddf217c11cd293808aaf421f00ec0: refactor(hooks): run every event through one Event and one Runner (@taciturnaxolotl)\r\n* 81e41ae74f3ab7e5d25947f96a72af596b6b2605: server: support http:// as a tcp:// alias (@meowgorithm)\r\n\r\n---\r\n\r\n<details>\r\n<summary>Verifying the artifacts</summary>\r\n\r\nFirst, download the [`checksums.txt` file](https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt) and the [`checksums.txt.sigstore.json` file](https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt.sigstore.json) files, for example, with `wget`:\r\n\r\n```bash\r\nwget 'https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt'\r\nwget 'https://github.com/charmbracelet/crush/releases/download/v0.99.0/checksums.txt.sigstore.json'\r\n```\r\n\r\nThen, verify it using [`cosign`](https://github.com/sigstore/cosign):\r\n\r\n```bash\r\ncosign verify-blob \\\r\n  --certificate-identity-regexp '^https://github.com/charmbracelet/crush/\\.github/workflows/(release|nightly)\\.yml@' \\\r\n  --certificate-oidc-issuer 'https://token.actions.githubusercontent.com' \\\r\n  --bundle 'checksums.txt.sigstore.json' \\\r\n  ./checksums.txt\r\n```\r\n\r\nIf the output is `Verified OK`, you can safely use it to verify the checksums of other artifacts you downloaded from the release using `sha256sum`:\r\n\r\n```bash\r\nsha256sum --ignore-missing -c checksums.txt\r\n```\r\n\r\nDone! You artifacts are now verified!\r\n\r\n</details>\r\n\r\n<a href=\"https://charm.land/\"><img alt=\"The Charm logo\" src=\"https://stuff.charm.sh/charm-banner-next.jpg\" width=\"400\"></a>\r\n\r\nThoughts? Questions? We love hearing from you. Feel free to reach out on [X](https://x.com/charmcli), [Discord](https://charm.land/discord), [Slack](https://charm.land/slack), [The Fediverse](https://mastodon.social/@charmcli), [Bluesky](https://bsky.app/profile/charm.land).\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/charmbracelet/crush/releases/428115031/reactions",
     "total_count": 18,
