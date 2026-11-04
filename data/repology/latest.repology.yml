@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: crush
-  visiblename: Crush
-  version: 0.99.0
-  origversion: null
-  status: newest
-  summary: Glamourous agentic coding for all
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -86,6 +79,13 @@
     - fallback-mnt-aur@repology
   licenses:
     - FSL-1.1-MIT
+- repo: chocolatey
+  binname: crush
+  visiblename: Crush
+  version: 0.99.0
+  origversion: null
+  status: newest
+  summary: Glamourous agentic coding for all
 - repo: freebsd
   srcname: misc/crush
   binname: crush
