@@ -151,9 +151,9 @@
 - repo: nix_unstable
   srcname: crush
   visiblename: crush
-  version: 0.98.1
+  version: 0.99.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - nix@nixlink.net
