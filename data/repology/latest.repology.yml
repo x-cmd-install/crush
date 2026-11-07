@@ -205,17 +205,6 @@
     - FSL-1.1-MIT
   categories:
     - Development/Other
-- repo: openpkg_current
-  srcname: crush
-  visiblename: crush
-  version: 2015.07.16
-  origversion: null
-  status: untrusted
-  summary: Custom Reporting Utilities for Shell
-  licenses:
-    - Apache
-  categories:
-    - Text
 - repo: tur
   srcname: crush
   binname: crush
