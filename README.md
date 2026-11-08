@@ -14,11 +14,11 @@ x install crush
 
 ## Code insight
 
-Total: **159,676** lines of code across **927** files in the top 5 languages.
+Total: **160,090** lines of code across **929** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 151,055 | 25,287 | 24,390 | 885 |
+| Go | 151,469 | 25,333 | 24,460 | 887 |
 | Yaml | 2,967 | 3 | 1,243 | 17 |
 | Json | 1,716 | 0 | 0 | 3 |
 | Svg | 1,624 | 2 | 7 | 6 |
@@ -37,22 +37,22 @@ Total: **159,676** lines of code across **927** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,983 · **Forks**: 2,356 · **Open issues**: 1,330 · **Contributors**: 144
+- **Stars**: 28,993 · **Forks**: 2,359 · **Open issues**: 1,330 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 1597 · **Open PRs**: 245 · **Closed issues**: 1040 · **Open issues**: 290 · **Commits**: 4489
+- **Releases**: 198 · **Merged PRs**: 1599 · **Open PRs**: 245 · **Closed issues**: 1040 · **Open issues**: 290 · **Commits**: 4497
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 6 | 59 | 58 | 12 | 28 | 169 |
-| last60d | 2026-09-08 | 14 | 133 | 151 | 43 | 68 | 329 |
-| 90d | 2026-08-09 | 20 | 197 | 185 | 62 | 107 | 450 |
-| last180d | 2026-05-11 | 47 | 435 | 231 | 156 | 217 | 1093 |
-| 360d | 2025-11-12 | 100 | 1028 | 245 | 521 | 274 | 2261 |
-| last720d | 2024-11-17 | 100 | 1597 | 245 | 1040 | 290 | 4489 |
+| 30d | 2026-10-09 | 5 | 58 | 55 | 10 | 28 | 176 |
+| last60d | 2026-09-09 | 14 | 129 | 145 | 43 | 67 | 337 |
+| 90d | 2026-08-10 | 20 | 195 | 185 | 60 | 106 | 458 |
+| last180d | 2026-05-12 | 46 | 424 | 231 | 152 | 216 | 1101 |
+| 360d | 2025-11-13 | 100 | 1027 | 245 | 519 | 274 | 2269 |
+| last720d | 2024-11-18 | 100 | 1599 | 245 | 1040 | 290 | 4497 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for crush lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:17:01Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:19:22Z._
