@@ -1,3 +1,52 @@
+- repo: openbsd
+  srcname: devel/crush
+  binname: crush
+  visiblename: devel/crush
+  version: 0.98.1
+  origversion: null
+  status: outdated
+  summary: coding agent with a rich terminal UI
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - devel
+- repo: nix_stable_25_11
+  srcname: crush
+  visiblename: crush
+  version: 0.18.3
+  origversion: null
+  status: outdated
+  summary: Glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - nix@nixlink.net
+  licenses:
+    - FSL-1.1-MIT
+- repo: nix_stable_26_05
+  srcname: crush
+  visiblename: crush
+  version: 0.70.0
+  origversion: null
+  status: outdated
+  summary: Glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - nix@nixlink.net
+    - abdelmalik.najhi@stud.hs-kempten.de
+    - davinci42.cn@gmail.com
+  licenses:
+    - FSL-1.1-MIT
+- repo: nix_unstable
+  srcname: crush
+  visiblename: crush
+  version: 0.99.0
+  origversion: null
+  status: outdated
+  summary: Glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - nix@nixlink.net
+    - abdelmalik.najhi@stud.hs-kempten.de
+    - davinci42.cn@gmail.com
+  licenses:
+    - FSL-1.1-MIT
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -124,55 +173,6 @@
     - FSL-1.1-MIT
   categories:
     - app-misc
-- repo: nix_stable_25_11
-  srcname: crush
-  visiblename: crush
-  version: 0.18.3
-  origversion: null
-  status: outdated
-  summary: Glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - nix@nixlink.net
-  licenses:
-    - FSL-1.1-MIT
-- repo: nix_stable_26_05
-  srcname: crush
-  visiblename: crush
-  version: 0.70.0
-  origversion: null
-  status: outdated
-  summary: Glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - nix@nixlink.net
-    - abdelmalik.najhi@stud.hs-kempten.de
-    - davinci42.cn@gmail.com
-  licenses:
-    - FSL-1.1-MIT
-- repo: nix_unstable
-  srcname: crush
-  visiblename: crush
-  version: 0.99.0
-  origversion: null
-  status: outdated
-  summary: Glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - nix@nixlink.net
-    - abdelmalik.najhi@stud.hs-kempten.de
-    - davinci42.cn@gmail.com
-  licenses:
-    - FSL-1.1-MIT
-- repo: openbsd
-  srcname: devel/crush
-  binname: crush
-  visiblename: devel/crush
-  version: 0.98.1
-  origversion: null
-  status: outdated
-  summary: coding agent with a rich terminal UI
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - devel
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: crush
