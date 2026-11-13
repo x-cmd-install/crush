@@ -22,7 +22,7 @@
   visiblename: crush
   version: 0.100.0
   origversion: 0.100.0-alt1
-  status: newest
+  status: outdated
   summary: The glamourous AI coding agent for your favourite terminal
   maintainers:
     - iv@altlinux.org
@@ -46,8 +46,8 @@
   srcname: crush
   binname: crush
   visiblename: crush
-  version: 0.100.0
-  origversion: 0.100.0-1
+  version: 0.101.0
+  origversion: 0.101.0-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -59,8 +59,8 @@
   srcname: crush-bin
   binname: crush-bin
   visiblename: crush-bin
-  version: 0.100.0
-  origversion: 0.100.0-1
+  version: 0.101.0
+  origversion: 0.101.0-1
   status: newest
   summary: A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
   maintainers:
@@ -92,7 +92,7 @@
   visiblename: misc/crush
   version: 0.100.0
   origversion: 0.100.0_1
-  status: newest
+  status: outdated
   summary: Glamourous AI coding agent for your favourite terminal
   maintainers:
     - tagattie@freebsd.org
