@@ -1,3 +1,27 @@
+- repo: nix_stable_25_11
+  srcname: crush
+  visiblename: crush
+  version: 0.18.3
+  origversion: null
+  status: outdated
+  summary: Glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - nix@nixlink.net
+  licenses:
+    - FSL-1.1-MIT
+- repo: nix_stable_26_05
+  srcname: crush
+  visiblename: crush
+  version: 0.70.0
+  origversion: null
+  status: outdated
+  summary: Glamourous AI coding agent for your favourite terminal
+  maintainers:
+    - nix@nixlink.net
+    - abdelmalik.najhi@stud.hs-kempten.de
+    - davinci42.cn@gmail.com
+  licenses:
+    - FSL-1.1-MIT
 - repo: alt_p11
   srcname: crush
   binnames:
@@ -82,9 +106,9 @@
 - repo: chocolatey
   binname: crush
   visiblename: Crush
-  version: 0.99.0
+  version: 0.101.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Glamourous agentic coding for all
 - repo: freebsd
   srcname: misc/crush
@@ -124,30 +148,6 @@
     - FSL-1.1-MIT
   categories:
     - app-misc
-- repo: nix_stable_25_11
-  srcname: crush
-  visiblename: crush
-  version: 0.18.3
-  origversion: null
-  status: outdated
-  summary: Glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - nix@nixlink.net
-  licenses:
-    - FSL-1.1-MIT
-- repo: nix_stable_26_05
-  srcname: crush
-  visiblename: crush
-  version: 0.70.0
-  origversion: null
-  status: outdated
-  summary: Glamourous AI coding agent for your favourite terminal
-  maintainers:
-    - nix@nixlink.net
-    - abdelmalik.najhi@stud.hs-kempten.de
-    - davinci42.cn@gmail.com
-  licenses:
-    - FSL-1.1-MIT
 - repo: nix_unstable
   srcname: crush
   visiblename: crush
