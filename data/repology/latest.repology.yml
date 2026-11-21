@@ -20,9 +20,9 @@
     - crush
     - crush-debuginfo
   visiblename: crush
-  version: 0.101.0
-  origversion: 0.101.0-alt1
-  status: outdated
+  version: 0.102.0
+  origversion: 0.102.0-alt1
+  status: newest
   summary: The glamourous AI coding agent for your favourite terminal
   maintainers:
     - iv@altlinux.org

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6299,
       "digest": "sha256:6c05efb7cb118729bcfb4229461bbd20b415c5047dc3f225b39756d2bb0058ae",
-      "download_count": 1677,
+      "download_count": 2597,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10199,
       "digest": "sha256:aa3b36d3f574b4e84f41c780c3cf247a5b424f275e5b24fd7538ee2813188de8",
-      "download_count": 1640,
+      "download_count": 2502,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26431844,
       "digest": "sha256:e732b05c31b7ff46edce7aa7a3fd940ad9b47d52ce509ae66103214371466143",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:29:53Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-aarch64.pkg.tar.zst"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 26577566,
       "digest": "sha256:54b89a3240c15c56a8e773c9e7e25ac1a00d3b7a4d121122b3f2f038332ea192",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-armv7h.pkg.tar.zst"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 26715886,
       "digest": "sha256:a0b70b271d638581cc53dc1945ef1072960de8bef4497809fce9870d9938aa7e",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-19T17:29:53Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-i686.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 28686599,
       "digest": "sha256:423fdb21616c4a673f42e5217c604683106d0d9f67ae4c350d2ec96e2582cbcb",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-x86_64.pkg.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 28447917,
       "digest": "sha256:30900c8aec962b4cc5f5cf505eaad9bd9a8c406be425676d3f9a8461a131f492",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-11-19T17:29:54Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.aarch64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28868314,
       "digest": "sha256:a04219faf169a6e8e3e6aaaa37d89ff59bd0b0b97df9075e5e56e586c0944c74",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-19T17:29:53Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.armv7hl.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 28849140,
       "digest": "sha256:9c89c2fac900ba470ca4c925a5ab9d5037cabbffda3c7f52b50b5fcd64e8beae",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-11-19T17:29:54Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.i386.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 30887314,
       "digest": "sha256:1d0529a77058a798fd40d0ab06e5ea095d753c1806f3e45cd2775f0a0dca6f75",
-      "download_count": 15,
+      "download_count": 23,
       "created_at": "2026-11-19T17:29:58Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2681026,
       "digest": "sha256:f5643f0245af32b05579aa74032394a2a736ef4c6eefee76d3c7c0f10eaa8e37",
-      "download_count": 75,
+      "download_count": 135,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:53Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 505095,
       "digest": "sha256:6798ff9a0ed666b259f44c461c600716d01da70832bd9b9c8f8b9b34aee776f4",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0.tar.gz.sbom.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 28857015,
       "digest": "sha256:583e7a8aa06d975f329c971134fbca2f99c554069077845814c0d4f818cc8d76",
-      "download_count": 31,
+      "download_count": 104,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_aarch64.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 29887504,
       "digest": "sha256:d60de37676123971b41bef778c4257c10848f074e8b0c1086c799c3709066e6a",
-      "download_count": 19,
+      "download_count": 28,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 29767908,
       "digest": "sha256:ddb1a4b1ac24989f2dd4aa35c13ed6308c2ef05df0aac2c8130e687c6ac1e4fb",
-      "download_count": 16,
+      "download_count": 26,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:52Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Android_arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 291751,
       "digest": "sha256:0a8ef4308b76bc92f2098838b103aee30164ae4c0bbc3d66db80020ee8636392",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Android_arm64.tar.gz.sbom.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 27599610,
       "digest": "sha256:684d675af861e8b9935196679f7710199232324d93fe27a3981b3f6d91622c78",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_arm64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 28013058,
       "digest": "sha256:66b35c6b30dc7e41972d39a879506f617bd7ece2f3a62b345bb41aea419d36c5",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-19T17:29:59Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_armhf.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 29320769,
       "digest": "sha256:aaf1816f7cd5ead485727623caba0889d5f81565a68de5ee2a67a78defe35b28",
-      "download_count": 11,
+      "download_count": 40,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_armv7.apk"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 29044096,
       "digest": "sha256:3b0d7bce51065bee09fa21acdc328467a4996509ae221e601f388fb7d17aff16",
-      "download_count": 610,
+      "download_count": 1177,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:52Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 296005,
       "digest": "sha256:dd0f1d8710d1b2eb3ba69f98f3b422b8ee9db7229e754850b4c86aa91304d5bf",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_arm64.tar.gz.sbom.json"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 31345502,
       "digest": "sha256:4aae17edfc5debed77cfebf4b9cfb38c04bacca3358a728225e8587e213e8262",
-      "download_count": 28,
+      "download_count": 49,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_x86_64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 298095,
       "digest": "sha256:c01b9f9c57586543709c774f8019f8cfe22b6f49cef85556f0c5ba4b8eb9ae93",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_x86_64.tar.gz.sbom.json"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 27417467,
       "digest": "sha256:e76996b161d77cbefb13f9aea22a09237939b8f9a3233acdd695ed53e768db6f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:57Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 296413,
       "digest": "sha256:0a749bc709a00ff68e7d18274c2967b2ea034ab7ae5286cd82ca159caf57f697",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_arm64.tar.gz.sbom.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 29652869,
       "digest": "sha256:df1cc91d6c95979a1abe7865234db443636187f264a76ae321a57459f9305ad3",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_armv7.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 291156,
       "digest": "sha256:e800741f47847c635b607971eb594693d14f1173e086c8c682d0f6c76dcce043",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_armv7.tar.gz.sbom.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 28996028,
       "digest": "sha256:8db60e1ea87bb207cb92b05d1998df8dd9242df43b387cce74b88d84dd699f3b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:52Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_i386.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 290618,
       "digest": "sha256:e119e90237ea17a782d41596def0a59da6c5d1d19053a75f34ed9594e0e6a536",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_i386.tar.gz.sbom.json"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 29690973,
       "digest": "sha256:c9cd4025d1d14d477ec21efdf821d4c57248b03cdc89d4e4375021e6558554f4",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 298506,
       "digest": "sha256:11b77e3027223ca54c397ab661b4da4111cd5a3245336d15415a72468f275023",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_x86_64.tar.gz.sbom.json"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 27961306,
       "digest": "sha256:327eb01dcb69c9bc80ec0df11935fb226549375149bc15c6cc262565fff7f1ed",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-19T17:29:59Z",
       "updated_at": "2026-11-19T17:30:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_i386.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 27601962,
       "digest": "sha256:311e0a5b67e595ad2b6f2276181bcea78c396ac220541544fdd1b419c4ba62d1",
-      "download_count": 104,
+      "download_count": 202,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_arm64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 293644,
       "digest": "sha256:1c9243acf60361caec534d9f2de22c23327eaf02e266a0987fd33b71919a4f58",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_arm64.tar.gz.sbom.json"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 28020850,
       "digest": "sha256:f5ceb15ab05cc27934f6b382e8d52fc5779c2e6b3fd15a187827297295dcf811",
-      "download_count": 14,
+      "download_count": 18,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_armv7.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 293644,
       "digest": "sha256:ce986adbd8b0205a9a626270701fd570f4ba1c4c19ef232e25e47e3011406e2b",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_armv7.tar.gz.sbom.json"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 27963096,
       "digest": "sha256:9c5d13e66469a4a8fd04a452afc614b872b34405088c5c4d79482ae49207fafe",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_i386.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 293100,
       "digest": "sha256:94c1861dec385c7c5b20a97cadaf5d94e979659b5f1ac0dddf3288ebb357b617",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_i386.tar.gz.sbom.json"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 29909892,
       "digest": "sha256:7930cc14a2dec3a857ddd2070c863c1c5d7edb335d20cdfb65a5b44e62a0ca1e",
-      "download_count": 3399,
+      "download_count": 6327,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:58Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_x86_64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 295728,
       "digest": "sha256:7fbf95844a1a6fc3c541f93eaa4081b914d8226684d538d68a2536240d5de34c",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:02Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_x86_64.tar.gz.sbom.json"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 28259191,
       "digest": "sha256:19d857a0c9b1bbedf7c790dc8ee9dc5dea2287f8a2df2ccc07342e7b9943ed00",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_arm64.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 290618,
       "digest": "sha256:b065030f70277177ba8c2aea872cc5d871df8fa5d021a24c5d404b130765bf73",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_arm64.tar.gz.sbom.json"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 29631848,
       "digest": "sha256:d640214bf423e04cfcd9852c31e7e223fa1bb9b8ce2d2a736d21debbb83fd491",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_armv7.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 290618,
       "digest": "sha256:20e0c6b4421e104375892f63677eb5fba57e1a645fa353aa9d39e23d29749dec",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_armv7.tar.gz.sbom.json"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 28975182,
       "digest": "sha256:a412b4f758bf45d6c26b50272e0a247ef003080f9d1db18e653bd8d675e68098",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:52Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_i386.tar.gz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 290080,
       "digest": "sha256:0488a8b4d0787ee98ba1621e2b7980abb186648072065d20c7d34df17d0552ae",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_i386.tar.gz.sbom.json"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 30734091,
       "digest": "sha256:22eb1c3aa24f7fc5ba824eb37ba0a9bd597c7c209cff5bdcd48db29f4c90b5a0",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:58Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_x86_64.tar.gz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 292699,
       "digest": "sha256:8e834c9f360237d2abc1d49ba7e37a2db73bf147af0f7c583d21385174d9f657",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_x86_64.tar.gz.sbom.json"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 28267499,
       "digest": "sha256:7e9ff78fee50b728f8abde58376773ba52a8eee1b3920cb501320552dd38113d",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_arm64.tar.gz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 291156,
       "digest": "sha256:11f410dbba891d6ace39278d394e64374ae22fdfaa11f0f90c0e3e16dbb265bb",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_arm64.tar.gz.sbom.json"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 29640996,
       "digest": "sha256:cb0143a701d9409ccb9bfb047db9927741e717a0a315e3de6591b73c724e8c4c",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T17:29:51Z",
       "updated_at": "2026-11-19T17:29:54Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_armv7.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 291156,
       "digest": "sha256:09bddc8ed12cf8d5cf1f7250ffcc07a39b1b38d5c1cf0a420985322a65755289",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_armv7.tar.gz.sbom.json"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 28990618,
       "digest": "sha256:b610c2eca0e5943f3d3ae8798c13ce35ae51f43cd4d9a899e0c603a21d927abb",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_i386.tar.gz"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 290618,
       "digest": "sha256:80d5eadd9752cefb35294edf5798d870d3370f27cd1ecb5a46f6b16f11f76ece",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_i386.tar.gz.sbom.json"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 30745980,
       "digest": "sha256:804ea50416e399d1a71eb8e935339039c2078ac6b09459ac13c1df8efb330b61",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_x86_64.tar.gz"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 293240,
       "digest": "sha256:ebced673c8df38ef8cf61d81fd4eac9039e5ea446c0e0edba6dea16e95470bf2",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_x86_64.tar.gz.sbom.json"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 27629362,
       "digest": "sha256:0f646e51cf69bc31dfea4c53e7a797af7d33fdc77b2e0712f9ad0b427b82c25b",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_arm64.zip"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 304699,
       "digest": "sha256:c42c2f7af2db30a8cb722ffa5838efa7ee2cec1d80bf217f039f06903f7bd917",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_arm64.zip.sbom.json"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 28948173,
       "digest": "sha256:c67b7f11bd7b70d7ef92970216e9f9002cc405346c7caf8ac927508e9700d77e",
-      "download_count": 21,
+      "download_count": 30,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_i386.zip"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 304140,
       "digest": "sha256:4b1da289b2778d2d979fbf45b5ce0d8647bc19e5842541d2f419f8342af420ee",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:00Z",
       "updated_at": "2026-11-19T17:30:00Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_i386.zip.sbom.json"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 30427358,
       "digest": "sha256:d9e60f2003210b54946b840dc1ef20a266ff633bdf67b43b8b8d155eadfd2f13",
-      "download_count": 227,
+      "download_count": 530,
       "created_at": "2026-11-19T17:29:44Z",
       "updated_at": "2026-11-19T17:29:51Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_x86_64.zip"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 306809,
       "digest": "sha256:5d254c47e2024046099df19364444c0ccb4d2803b7d73fa529701ce262a2bc82",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-19T17:30:01Z",
       "updated_at": "2026-11-19T17:30:01Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_x86_64.zip.sbom.json"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 29351949,
       "digest": "sha256:4099496a205f7c12a611f65bc949adb910e780c2980a619be5fc575e7af75852",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_x86.apk"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 31299282,
       "digest": "sha256:2dfff52c8542b81e5ba24d8304f996538cc0c02941a2c5d62ddc38e96459b486",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-19T17:29:52Z",
       "updated_at": "2026-11-19T17:29:59Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_x86_64.apk"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 28386,
       "digest": "sha256:1f6fc5c644c5bd381b99797d7872c304dfde888f16b17ae49d9dfe8f6cc6184f",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-19T17:33:32Z",
       "updated_at": "2026-11-19T17:33:33Z",
       "browser_download_url": "https://github.com/charmbracelet/crush/releases/download/v0.102.0/packslip.sigstore.json"
