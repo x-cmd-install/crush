@@ -14,11 +14,11 @@ x install crush
 
 ## 代码洞察
 
-合计: **174,338** 行代码（覆盖前 5 种语言、共 **1031** 个文件）。
+合计: **174,520** 行代码（覆盖前 5 种语言、共 **1035** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 165,238 | 27,756 | 26,497 | 989 |
+| Go | 165,420 | 27,777 | 26,529 | 993 |
 | Yaml | 3,276 | 3 | 1,415 | 17 |
 | Json | 1,872 | 0 | 0 | 3 |
 | Svg | 1,624 | 2 | 7 | 6 |
@@ -31,98 +31,97 @@ x install crush
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-11-19)
-- **最近提交**: 2026-11-25
-- **Release 含资产**: 65 个
+- **最新版本**: `v0.103.0` (2026-11-26)
+- **最近提交**: 2026-11-27
+- **Release 含资产**: 64 个
 
 ## 流行度
 
-- **Star**: 29,209 · **Fork**: 2,404 · **开放 issue**: 1,356 · **贡献者**: 149
+- **Star**: 29,215 · **Fork**: 2,409 · **开放 issue**: 1,357 · **贡献者**: 149
 
 ## 累计统计
 
-- **发布数**: 200 · **已合并 PR**: 1679 · **开放 PR**: 289 · **已关闭 issue**: 1049 · **开放 issue**: 307 · **提交数**: 4660
+- **发布数**: 201 · **已合并 PR**: 1684 · **开放 PR**: 300 · **已关闭 issue**: 1050 · **开放 issue**: 307 · **提交数**: 4668
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 5 | 100 | 89 | 6 | 38 | 161 |
-| last60d | 2026-09-27 | 10 | 151 | 141 | 27 | 59 | 357 |
-| 90d | 2026-08-28 | 17 | 239 | 208 | 58 | 101 | 553 |
-| last180d | 2026-05-30 | 39 | 454 | 265 | 135 | 211 | 1082 |
-| 360d | 2025-12-01 | 100 | 1069 | 289 | 495 | 289 | 2356 |
-| last720d | 2024-12-06 | 100 | 1679 | 289 | 1049 | 307 | 4660 |
+| 30d | 2026-10-28 | 6 | 101 | 100 | 7 | 38 | 168 |
+| last60d | 2026-09-28 | 11 | 155 | 144 | 26 | 56 | 364 |
+| 90d | 2026-08-29 | 18 | 243 | 219 | 58 | 100 | 560 |
+| last180d | 2026-05-31 | 40 | 459 | 276 | 136 | 211 | 1089 |
+| 360d | 2025-12-02 | 100 | 1072 | 300 | 493 | 289 | 2363 |
+| last720d | 2024-12-07 | 100 | 1684 | 300 | 1050 | 307 | 4668 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/charmbracelet/crush/releases/download/v0.102.0/checksums.txt) | 6.2 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/checksums.txt.sigstore.json) | 10.0 KiB | `other` |
-| [crush-0.102.0-1-aarch64.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-aarch64.pkg.tar.zst) | 25.2 MiB | `other` |
-| [crush-0.102.0-1-armv7h.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-armv7h.pkg.tar.zst) | 25.3 MiB | `other` |
-| [crush-0.102.0-1-i686.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-i686.pkg.tar.zst) | 25.5 MiB | `other` |
-| [crush-0.102.0-1-x86_64.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1-x86_64.pkg.tar.zst) | 27.4 MiB | `other` |
-| [crush-0.102.0-1.aarch64.rpm](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.aarch64.rpm) | 27.1 MiB | `runtime/rpm/aarch64` |
-| [crush-0.102.0-1.armv7hl.rpm](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.armv7hl.rpm) | 27.5 MiB | `runtime/rpm/armv7hl` |
-| [crush-0.102.0-1.i386.rpm](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.i386.rpm) | 27.5 MiB | `other` |
-| [crush-0.102.0-1.x86_64.rpm](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0-1.x86_64.rpm) | 29.5 MiB | `runtime/rpm/x86_64` |
-| [crush-0.102.0.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0.tar.gz) | 2.6 MiB | `native/unknown` |
-| [crush-0.102.0.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush-0.102.0.tar.gz.sbom.json) | 493.3 KiB | `other` |
-| [crush_0.102.0_aarch64.apk](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_aarch64.apk) | 27.5 MiB | `other` |
-| [crush_0.102.0_amd64.deb](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_amd64.deb) | 28.5 MiB | `runtime/deb/amd64` |
-| [crush_0.102.0_Android_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Android_arm64.tar.gz) | 28.4 MiB | `native/linux/arm64` |
-| [crush_0.102.0_Android_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Android_arm64.tar.gz.sbom.json) | 284.9 KiB | `other` |
-| [crush_0.102.0_arm64.deb](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_arm64.deb) | 26.3 MiB | `runtime/deb/arm64` |
-| [crush_0.102.0_armhf.deb](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_armhf.deb) | 26.7 MiB | `runtime/deb/armhf` |
-| [crush_0.102.0_armv7.apk](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_armv7.apk) | 28.0 MiB | `other` |
-| [crush_0.102.0_Darwin_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
-| [crush_0.102.0_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_arm64.tar.gz.sbom.json) | 289.1 KiB | `native/darwin/arm64` |
-| [crush_0.102.0_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_x86_64.tar.gz) | 29.9 MiB | `native/darwin/x64` |
-| [crush_0.102.0_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Darwin_x86_64.tar.gz.sbom.json) | 291.1 KiB | `native/darwin/x64` |
-| [crush_0.102.0_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_arm64.tar.gz) | 26.1 MiB | `native/linux/arm64` |
-| [crush_0.102.0_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_arm64.tar.gz.sbom.json) | 289.5 KiB | `other` |
-| [crush_0.102.0_Freebsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_armv7.tar.gz) | 28.3 MiB | `native/linux/arm` |
-| [crush_0.102.0_Freebsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_armv7.tar.gz.sbom.json) | 284.3 KiB | `other` |
-| [crush_0.102.0_Freebsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_i386.tar.gz) | 27.7 MiB | `native/linux/x86` |
-| [crush_0.102.0_Freebsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_i386.tar.gz.sbom.json) | 283.8 KiB | `other` |
-| [crush_0.102.0_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_x86_64.tar.gz) | 28.3 MiB | `native/linux/x64` |
-| [crush_0.102.0_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Freebsd_x86_64.tar.gz.sbom.json) | 291.5 KiB | `other` |
-| [crush_0.102.0_i386.deb](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_i386.deb) | 26.7 MiB | `runtime/deb/i386` |
-| [crush_0.102.0_Linux_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_arm64.tar.gz) | 26.3 MiB | `native/linux/arm64` |
-| [crush_0.102.0_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_arm64.tar.gz.sbom.json) | 286.8 KiB | `native/linux/arm64` |
-| [crush_0.102.0_Linux_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_armv7.tar.gz) | 26.7 MiB | `native/linux/arm` |
-| [crush_0.102.0_Linux_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_armv7.tar.gz.sbom.json) | 286.8 KiB | `native/linux/arm` |
-| [crush_0.102.0_Linux_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_i386.tar.gz) | 26.7 MiB | `native/linux/x86` |
-| [crush_0.102.0_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_i386.tar.gz.sbom.json) | 286.2 KiB | `native/linux/x86` |
-| [crush_0.102.0_Linux_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_x86_64.tar.gz) | 28.5 MiB | `native/linux/x64` |
-| [crush_0.102.0_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Linux_x86_64.tar.gz.sbom.json) | 288.8 KiB | `native/linux/x64` |
-| [crush_0.102.0_Netbsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_arm64.tar.gz) | 27.0 MiB | `native/linux/arm64` |
-| [crush_0.102.0_Netbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_arm64.tar.gz.sbom.json) | 283.8 KiB | `other` |
-| [crush_0.102.0_Netbsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_armv7.tar.gz) | 28.3 MiB | `native/linux/arm` |
-| [crush_0.102.0_Netbsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_armv7.tar.gz.sbom.json) | 283.8 KiB | `other` |
-| [crush_0.102.0_Netbsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_i386.tar.gz) | 27.6 MiB | `native/linux/x86` |
-| [crush_0.102.0_Netbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_i386.tar.gz.sbom.json) | 283.3 KiB | `other` |
-| [crush_0.102.0_Netbsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_x86_64.tar.gz) | 29.3 MiB | `native/linux/x64` |
-| [crush_0.102.0_Netbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Netbsd_x86_64.tar.gz.sbom.json) | 285.8 KiB | `other` |
-| [crush_0.102.0_Openbsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_arm64.tar.gz) | 27.0 MiB | `native/linux/arm64` |
-| [crush_0.102.0_Openbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_arm64.tar.gz.sbom.json) | 284.3 KiB | `other` |
-| [crush_0.102.0_Openbsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_armv7.tar.gz) | 28.3 MiB | `native/linux/arm` |
-| [crush_0.102.0_Openbsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_armv7.tar.gz.sbom.json) | 284.3 KiB | `other` |
-| [crush_0.102.0_Openbsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_i386.tar.gz) | 27.6 MiB | `native/linux/x86` |
-| [crush_0.102.0_Openbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_i386.tar.gz.sbom.json) | 283.8 KiB | `other` |
-| [crush_0.102.0_Openbsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_x86_64.tar.gz) | 29.3 MiB | `native/linux/x64` |
-| [crush_0.102.0_Openbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Openbsd_x86_64.tar.gz.sbom.json) | 286.4 KiB | `other` |
-| [crush_0.102.0_Windows_arm64.zip](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_arm64.zip) | 26.3 MiB | `native/win/arm64` |
-| [crush_0.102.0_Windows_arm64.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_arm64.zip.sbom.json) | 297.6 KiB | `native/win/arm64` |
-| [crush_0.102.0_Windows_i386.zip](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_i386.zip) | 27.6 MiB | `native/win/x64` |
-| [crush_0.102.0_Windows_i386.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_i386.zip.sbom.json) | 297.0 KiB | `native/win/x64` |
-| [crush_0.102.0_Windows_x86_64.zip](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_x86_64.zip) | 29.0 MiB | `native/win/x64` |
-| [crush_0.102.0_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_Windows_x86_64.zip.sbom.json) | 299.6 KiB | `native/win/x64` |
-| [crush_0.102.0_x86.apk](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_x86.apk) | 28.0 MiB | `other` |
-| [crush_0.102.0_x86_64.apk](https://github.com/charmbracelet/crush/releases/download/v0.102.0/crush_0.102.0_x86_64.apk) | 29.8 MiB | `other` |
-| [packslip.sigstore.json](https://github.com/charmbracelet/crush/releases/download/v0.102.0/packslip.sigstore.json) | 27.7 KiB | `other` |
+| [checksums.txt](https://github.com/charmbracelet/crush/releases/download/v0.103.0/checksums.txt) | 6.2 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/checksums.txt.sigstore.json) | 10.1 KiB | `other` |
+| [crush-0.103.0-1-aarch64.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1-aarch64.pkg.tar.zst) | 26.2 MiB | `other` |
+| [crush-0.103.0-1-armv7h.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1-armv7h.pkg.tar.zst) | 26.4 MiB | `other` |
+| [crush-0.103.0-1-i686.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1-i686.pkg.tar.zst) | 26.5 MiB | `other` |
+| [crush-0.103.0-1-x86_64.pkg.tar.zst](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1-x86_64.pkg.tar.zst) | 28.4 MiB | `other` |
+| [crush-0.103.0-1.aarch64.rpm](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1.aarch64.rpm) | 28.1 MiB | `runtime/rpm/aarch64` |
+| [crush-0.103.0-1.armv7hl.rpm](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1.armv7hl.rpm) | 28.6 MiB | `runtime/rpm/armv7hl` |
+| [crush-0.103.0-1.i386.rpm](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1.i386.rpm) | 28.6 MiB | `other` |
+| [crush-0.103.0-1.x86_64.rpm](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0-1.x86_64.rpm) | 30.6 MiB | `runtime/rpm/x86_64` |
+| [crush-0.103.0.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0.tar.gz) | 2.7 MiB | `native/unknown` |
+| [crush-0.103.0.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush-0.103.0.tar.gz.sbom.json) | 488.0 KiB | `other` |
+| [crush_0.103.0_aarch64.apk](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_aarch64.apk) | 28.5 MiB | `other` |
+| [crush_0.103.0_amd64.deb](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_amd64.deb) | 29.6 MiB | `runtime/deb/amd64` |
+| [crush_0.103.0_Android_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Android_arm64.tar.gz) | 29.4 MiB | `native/linux/arm64` |
+| [crush_0.103.0_Android_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Android_arm64.tar.gz.sbom.json) | 281.2 KiB | `other` |
+| [crush_0.103.0_arm64.deb](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_arm64.deb) | 27.3 MiB | `runtime/deb/arm64` |
+| [crush_0.103.0_armhf.deb](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_armhf.deb) | 27.7 MiB | `runtime/deb/armhf` |
+| [crush_0.103.0_armv7.apk](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_armv7.apk) | 29.0 MiB | `other` |
+| [crush_0.103.0_Darwin_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Darwin_arm64.tar.gz) | 28.7 MiB | `native/darwin/arm64` |
+| [crush_0.103.0_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Darwin_arm64.tar.gz.sbom.json) | 285.4 KiB | `native/darwin/arm64` |
+| [crush_0.103.0_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Darwin_x86_64.tar.gz) | 31.0 MiB | `native/darwin/x64` |
+| [crush_0.103.0_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Darwin_x86_64.tar.gz.sbom.json) | 287.4 KiB | `native/darwin/x64` |
+| [crush_0.103.0_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_arm64.tar.gz) | 27.1 MiB | `native/linux/arm64` |
+| [crush_0.103.0_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_arm64.tar.gz.sbom.json) | 285.8 KiB | `other` |
+| [crush_0.103.0_Freebsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_armv7.tar.gz) | 29.3 MiB | `native/linux/arm` |
+| [crush_0.103.0_Freebsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_armv7.tar.gz.sbom.json) | 280.6 KiB | `other` |
+| [crush_0.103.0_Freebsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_i386.tar.gz) | 28.7 MiB | `native/linux/x86` |
+| [crush_0.103.0_Freebsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_i386.tar.gz.sbom.json) | 280.1 KiB | `other` |
+| [crush_0.103.0_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_x86_64.tar.gz) | 29.4 MiB | `native/linux/x64` |
+| [crush_0.103.0_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Freebsd_x86_64.tar.gz.sbom.json) | 287.8 KiB | `other` |
+| [crush_0.103.0_i386.deb](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_i386.deb) | 27.7 MiB | `runtime/deb/i386` |
+| [crush_0.103.0_Linux_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_arm64.tar.gz) | 27.3 MiB | `native/linux/arm64` |
+| [crush_0.103.0_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_arm64.tar.gz.sbom.json) | 283.1 KiB | `native/linux/arm64` |
+| [crush_0.103.0_Linux_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_armv7.tar.gz) | 27.7 MiB | `native/linux/arm` |
+| [crush_0.103.0_Linux_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_armv7.tar.gz.sbom.json) | 283.1 KiB | `native/linux/arm` |
+| [crush_0.103.0_Linux_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_i386.tar.gz) | 27.7 MiB | `native/linux/x86` |
+| [crush_0.103.0_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_i386.tar.gz.sbom.json) | 282.6 KiB | `native/linux/x86` |
+| [crush_0.103.0_Linux_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_x86_64.tar.gz) | 29.6 MiB | `native/linux/x64` |
+| [crush_0.103.0_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Linux_x86_64.tar.gz.sbom.json) | 285.1 KiB | `native/linux/x64` |
+| [crush_0.103.0_Netbsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_arm64.tar.gz) | 27.9 MiB | `native/linux/arm64` |
+| [crush_0.103.0_Netbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_arm64.tar.gz.sbom.json) | 280.1 KiB | `other` |
+| [crush_0.103.0_Netbsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_armv7.tar.gz) | 29.3 MiB | `native/linux/arm` |
+| [crush_0.103.0_Netbsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_armv7.tar.gz.sbom.json) | 280.1 KiB | `other` |
+| [crush_0.103.0_Netbsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_i386.tar.gz) | 28.7 MiB | `native/linux/x86` |
+| [crush_0.103.0_Netbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_i386.tar.gz.sbom.json) | 279.6 KiB | `other` |
+| [crush_0.103.0_Netbsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_x86_64.tar.gz) | 30.4 MiB | `native/linux/x64` |
+| [crush_0.103.0_Netbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Netbsd_x86_64.tar.gz.sbom.json) | 282.1 KiB | `other` |
+| [crush_0.103.0_Openbsd_arm64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_arm64.tar.gz) | 28.0 MiB | `native/linux/arm64` |
+| [crush_0.103.0_Openbsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_arm64.tar.gz.sbom.json) | 280.6 KiB | `other` |
+| [crush_0.103.0_Openbsd_armv7.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_armv7.tar.gz) | 29.3 MiB | `native/linux/arm` |
+| [crush_0.103.0_Openbsd_armv7.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_armv7.tar.gz.sbom.json) | 280.6 KiB | `other` |
+| [crush_0.103.0_Openbsd_i386.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_i386.tar.gz) | 28.7 MiB | `native/linux/x86` |
+| [crush_0.103.0_Openbsd_i386.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_i386.tar.gz.sbom.json) | 280.1 KiB | `other` |
+| [crush_0.103.0_Openbsd_x86_64.tar.gz](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_x86_64.tar.gz) | 30.4 MiB | `native/linux/x64` |
+| [crush_0.103.0_Openbsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Openbsd_x86_64.tar.gz.sbom.json) | 282.7 KiB | `other` |
+| [crush_0.103.0_Windows_arm64.zip](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_arm64.zip) | 27.3 MiB | `native/win/arm64` |
+| [crush_0.103.0_Windows_arm64.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_arm64.zip.sbom.json) | 293.9 KiB | `native/win/arm64` |
+| [crush_0.103.0_Windows_i386.zip](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_i386.zip) | 28.6 MiB | `native/win/x64` |
+| [crush_0.103.0_Windows_i386.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_i386.zip.sbom.json) | 293.3 KiB | `native/win/x64` |
+| [crush_0.103.0_Windows_x86_64.zip](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_x86_64.zip) | 30.1 MiB | `native/win/x64` |
+| [crush_0.103.0_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_Windows_x86_64.zip.sbom.json) | 295.9 KiB | `native/win/x64` |
+| [crush_0.103.0_x86.apk](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_x86.apk) | 29.0 MiB | `other` |
+| [crush_0.103.0_x86_64.apk](https://github.com/charmbracelet/crush/releases/download/v0.103.0/crush_0.103.0_x86_64.apk) | 31.0 MiB | `other` |
 
 ## 改进这些数据
 
@@ -133,4 +132,4 @@ crush 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:53:43Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:18:28Z._
